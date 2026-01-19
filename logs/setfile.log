@@ -1,0 +1,147 @@
+2026-01-15 10:29:34.995221 |  INFO  : Checking the folder
+2026-01-15 10:29:34.996178 |  INFO  : files found -> Conference-template-A4.doc
+2026-01-15 10:29:34.996885 |  INFO  : files found -> heart_disease_cleaned_unique.csv
+2026-01-15 10:29:34.997547 |  INFO  : files found -> heart_disease_million_rows.csv
+2026-01-15 10:29:34.998144 |  INFO  : files found -> heart_disease_model_ready.csv
+2026-01-15 10:29:34.998636 |  INFO  : files found -> heart_disease_titan_ready.csv
+2026-01-15 10:29:35.891609 |  INFO  : Making the Prediction
+2026-01-15 10:29:53.384361 |  INFO  : Conference-template-A4.doc -> invoice
+2026-01-15 10:29:53.419073 |  INFO  : heart_disease_cleaned_unique.csv -> invoice
+2026-01-15 10:29:53.454861 |  INFO  : heart_disease_million_rows.csv -> invoice
+2026-01-15 10:29:53.490423 |  INFO  : heart_disease_model_ready.csv -> invoice
+2026-01-15 10:29:53.527506 |  INFO  : heart_disease_titan_ready.csv -> invoice
+2026-01-15 10:29:53.528218 |  INFO  : Organizing the file
+2026-01-15 10:29:55.928292 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\invoice\invoice
+2026-01-15 10:29:55.929762 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\Conference-template-A4.doc -> C:\Users\vivek\Documents\test_folder\invoice\invoice\Conference-template-A4.doc
+2026-01-15 10:29:55.931198 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_cleaned_unique.csv -> C:\Users\vivek\Documents\test_folder\invoice\invoice\heart_disease_cleaned_unique.csv
+2026-01-15 10:29:55.932675 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_million_rows.csv -> C:\Users\vivek\Documents\test_folder\invoice\invoice\heart_disease_million_rows.csv
+2026-01-15 10:29:55.933958 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_model_ready.csv -> C:\Users\vivek\Documents\test_folder\invoice\invoice\heart_disease_model_ready.csv
+2026-01-15 10:29:55.935131 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_titan_ready.csv -> C:\Users\vivek\Documents\test_folder\invoice\invoice\heart_disease_titan_ready.csv
+2026-01-15 10:31:39.854243 |  INFO  : Checking the folder
+2026-01-15 10:31:39.855006 |  INFO  : files found -> Conference-template-A4.doc
+2026-01-15 10:31:39.855521 |  INFO  : files found -> heart_disease_cleaned_unique.csv
+2026-01-15 10:31:39.856015 |  INFO  : files found -> heart_disease_million_rows.csv
+2026-01-15 10:31:39.856468 |  INFO  : files found -> heart_disease_model_ready.csv
+2026-01-15 10:31:39.856945 |  INFO  : files found -> heart_disease_titan_ready.csv
+2026-01-15 10:31:40.877746 |  INFO  : Making the Prediction
+2026-01-15 10:31:41.034168 |  INFO  : Conference-template-A4.doc -> invoice
+2026-01-15 10:31:41.077426 |  INFO  : heart_disease_cleaned_unique.csv -> invoice
+2026-01-15 10:31:41.121891 |  INFO  : heart_disease_million_rows.csv -> invoice
+2026-01-15 10:31:41.161594 |  INFO  : heart_disease_model_ready.csv -> invoice
+2026-01-15 10:31:41.203197 |  INFO  : heart_disease_titan_ready.csv -> invoice
+2026-01-15 10:31:41.203874 |  INFO  : Organizing the file
+2026-01-15 10:31:42.008902 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\invoice\invoice
+2026-01-15 10:31:42.010595 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\Conference-template-A4.doc -> C:\Users\vivek\Documents\test_folder\invoice\invoice\Conference-template-A4.doc
+2026-01-15 10:31:42.011863 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_cleaned_unique.csv -> C:\Users\vivek\Documents\test_folder\invoice\invoice\heart_disease_cleaned_unique.csv
+2026-01-15 10:31:42.013361 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_million_rows.csv -> C:\Users\vivek\Documents\test_folder\invoice\invoice\heart_disease_million_rows.csv
+2026-01-15 10:31:42.015330 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_model_ready.csv -> C:\Users\vivek\Documents\test_folder\invoice\invoice\heart_disease_model_ready.csv
+2026-01-15 10:31:42.016576 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_titan_ready.csv -> C:\Users\vivek\Documents\test_folder\invoice\invoice\heart_disease_titan_ready.csv
+2026-01-15 10:53:49.903221 |  INFO  : Checking the folder
+2026-01-15 10:53:49.904217 |  INFO  : files found -> Conference-template-A4.doc
+2026-01-15 10:53:49.904818 |  INFO  : files found -> heart_disease_cleaned_unique.csv
+2026-01-15 10:53:49.905335 |  INFO  : files found -> heart_disease_million_rows.csv
+2026-01-15 10:53:49.905836 |  INFO  : files found -> heart_disease_model_ready.csv
+2026-01-15 10:53:49.906292 |  INFO  : files found -> heart_disease_titan_ready.csv
+2026-01-15 10:53:51.220789 |  INFO  : Making the Prediction
+2026-01-15 10:53:51.356359 |  INFO  : Conference-template-A4.doc -> invoice
+2026-01-15 10:53:51.392936 |  INFO  : heart_disease_cleaned_unique.csv -> invoice
+2026-01-15 10:53:51.432366 |  INFO  : heart_disease_million_rows.csv -> invoice
+2026-01-15 10:53:51.469358 |  INFO  : heart_disease_model_ready.csv -> invoice
+2026-01-15 10:53:51.506621 |  INFO  : heart_disease_titan_ready.csv -> invoice
+2026-01-15 10:53:51.507256 |  INFO  : Organizing the file
+2026-01-15 10:53:52.613099 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\invoice\invoice
+2026-01-15 10:53:52.614580 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\Conference-template-A4.doc -> C:\Users\vivek\Documents\test_folder\invoice\invoice\Conference-template-A4.doc
+2026-01-15 10:53:52.615776 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_cleaned_unique.csv -> C:\Users\vivek\Documents\test_folder\invoice\invoice\heart_disease_cleaned_unique.csv
+2026-01-15 10:53:52.617159 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_million_rows.csv -> C:\Users\vivek\Documents\test_folder\invoice\invoice\heart_disease_million_rows.csv
+2026-01-15 10:53:52.618456 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_model_ready.csv -> C:\Users\vivek\Documents\test_folder\invoice\invoice\heart_disease_model_ready.csv
+2026-01-15 10:53:52.619665 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_titan_ready.csv -> C:\Users\vivek\Documents\test_folder\invoice\invoice\heart_disease_titan_ready.csv
+2026-01-15 10:54:29.546190 |  INFO  : Checking the folder
+2026-01-15 10:54:29.547072 |  WARNING  : Skipped files -> C:\Users\vivek\Documents\test_folder\invoice\invoice
+2026-01-15 10:54:33.646118 |  WARNING  : User Aborted the prediction
+2026-01-19 08:44:01.741177 |  INFO  : Checking the folder
+2026-01-19 08:44:01.742379 |  INFO  : files found -> .gitignore
+2026-01-19 08:44:01.742873 |  INFO  : files found -> LICENSE
+2026-01-19 08:44:01.743277 |  WARNING  : Skipped files -> logs
+2026-01-19 08:44:01.743717 |  INFO  : files found -> pyproject.toml
+2026-01-19 08:44:01.744548 |  INFO  : files found -> README.md
+2026-01-19 08:44:01.745056 |  INFO  : files found -> requirements.txt
+2026-01-19 08:44:01.745420 |  WARNING  : Skipped files -> src
+2026-01-19 08:44:01.745767 |  WARNING  : Skipped files -> tests
+2026-01-19 08:44:06.174697 |  WARNING  : User Aborted the prediction
+2026-01-19 08:44:43.578852 |  INFO  : Checking the folder
+2026-01-19 08:44:43.579888 |  INFO  : files found -> Conference-template-A4.doc
+2026-01-19 08:44:43.580802 |  INFO  : files found -> heart_disease_cleaned_unique.csv
+2026-01-19 08:44:43.581579 |  INFO  : files found -> heart_disease_million_rows.csv
+2026-01-19 08:44:43.582428 |  INFO  : files found -> heart_disease_model_ready.csv
+2026-01-19 08:44:43.583048 |  INFO  : files found -> heart_disease_titan_ready.csv
+2026-01-19 08:44:43.583691 |  INFO  : files found -> Methodology.docx
+2026-01-19 08:44:43.584497 |  INFO  : files found -> Result & Discussion.docx
+2026-01-19 08:44:49.404370 |  INFO  : Making the Prediction
+2026-01-19 08:45:29.179772 |  INFO  : Conference-template-A4.doc -> invoice
+2026-01-19 08:45:29.236752 |  INFO  : heart_disease_cleaned_unique.csv -> invoice
+2026-01-19 08:45:29.291472 |  INFO  : heart_disease_million_rows.csv -> invoice
+2026-01-19 08:45:29.347291 |  INFO  : heart_disease_model_ready.csv -> invoice
+2026-01-19 08:45:29.401877 |  INFO  : heart_disease_titan_ready.csv -> invoice
+2026-01-19 08:45:29.488471 |  INFO  : Methodology.docx -> blog
+2026-01-19 08:45:29.549036 |  INFO  : Result & Discussion.docx -> research
+2026-01-19 08:45:29.549901 |  INFO  : Organizing the file
+2026-01-19 08:45:37.484296 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\invoice
+2026-01-19 08:45:37.485735 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\Conference-template-A4.doc -> C:\Users\vivek\Documents\test_folder\invoice\Conference-template-A4.doc
+2026-01-19 08:45:37.488068 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\heart_disease_cleaned_unique.csv -> C:\Users\vivek\Documents\test_folder\invoice\heart_disease_cleaned_unique.csv
+2026-01-19 08:45:37.489881 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\heart_disease_million_rows.csv -> C:\Users\vivek\Documents\test_folder\invoice\heart_disease_million_rows.csv
+2026-01-19 08:45:37.491541 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\heart_disease_model_ready.csv -> C:\Users\vivek\Documents\test_folder\invoice\heart_disease_model_ready.csv
+2026-01-19 08:45:37.493218 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\heart_disease_titan_ready.csv -> C:\Users\vivek\Documents\test_folder\invoice\heart_disease_titan_ready.csv
+2026-01-19 08:45:37.494219 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\blog
+2026-01-19 08:45:37.496097 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\Methodology.docx -> C:\Users\vivek\Documents\test_folder\blog\Methodology.docx
+2026-01-19 08:45:37.497935 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\research
+2026-01-19 08:45:37.500109 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\Result & Discussion.docx -> C:\Users\vivek\Documents\test_folder\research\Result & Discussion.docx
+2026-01-19 08:47:44.906330 |  INFO  : Reverting the changes
+2026-01-19 08:53:26.809919 |  INFO  : Reverting the changes
+2026-01-19 08:53:26.811441 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\research\Result & Discussion.docx -> C:\Users\vivek\Documents\test_folder\Result & Discussion.docx
+2026-01-19 08:53:26.812541 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Documents\test_folder\research
+2026-01-19 08:53:26.813553 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\blog\Methodology.docx -> C:\Users\vivek\Documents\test_folder\Methodology.docx
+2026-01-19 08:53:26.814554 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Documents\test_folder\blog
+2026-01-19 08:53:26.815559 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_titan_ready.csv -> C:\Users\vivek\Documents\test_folder\heart_disease_titan_ready.csv
+2026-01-19 08:53:26.817598 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_model_ready.csv -> C:\Users\vivek\Documents\test_folder\heart_disease_model_ready.csv
+2026-01-19 08:53:26.819005 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_million_rows.csv -> C:\Users\vivek\Documents\test_folder\heart_disease_million_rows.csv
+2026-01-19 08:53:26.820396 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_cleaned_unique.csv -> C:\Users\vivek\Documents\test_folder\heart_disease_cleaned_unique.csv
+2026-01-19 08:53:26.821818 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\invoice\Conference-template-A4.doc -> C:\Users\vivek\Documents\test_folder\Conference-template-A4.doc
+2026-01-19 08:53:26.822799 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Documents\test_folder\invoice
+2026-01-19 08:53:44.364937 |  INFO  : Checking the folder
+2026-01-19 08:53:44.365957 |  INFO  : files found -> Conference-template-A4.doc
+2026-01-19 08:53:44.366936 |  INFO  : files found -> heart_disease_cleaned_unique.csv
+2026-01-19 08:53:44.367719 |  INFO  : files found -> heart_disease_million_rows.csv
+2026-01-19 08:53:44.368462 |  INFO  : files found -> heart_disease_model_ready.csv
+2026-01-19 08:53:44.368987 |  INFO  : files found -> heart_disease_titan_ready.csv
+2026-01-19 08:53:44.369435 |  INFO  : files found -> Methodology.docx
+2026-01-19 08:53:44.369858 |  INFO  : files found -> Result & Discussion.docx
+2026-01-19 08:53:45.033718 |  INFO  : Making the Prediction
+2026-01-19 08:53:45.176833 |  INFO  : Conference-template-A4.doc -> invoice
+2026-01-19 08:53:45.215252 |  INFO  : heart_disease_cleaned_unique.csv -> invoice
+2026-01-19 08:53:45.254069 |  INFO  : heart_disease_million_rows.csv -> invoice
+2026-01-19 08:53:45.290648 |  INFO  : heart_disease_model_ready.csv -> invoice
+2026-01-19 08:53:45.329141 |  INFO  : heart_disease_titan_ready.csv -> invoice
+2026-01-19 08:53:45.382271 |  INFO  : Methodology.docx -> blog
+2026-01-19 08:53:45.425511 |  INFO  : Result & Discussion.docx -> research
+2026-01-19 08:53:45.426208 |  INFO  : Organizing the file
+2026-01-19 08:53:46.103227 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\invoice
+2026-01-19 08:53:46.104797 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\Conference-template-A4.doc -> C:\Users\vivek\Documents\test_folder\invoice\Conference-template-A4.doc
+2026-01-19 08:53:46.106269 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\heart_disease_cleaned_unique.csv -> C:\Users\vivek\Documents\test_folder\invoice\heart_disease_cleaned_unique.csv
+2026-01-19 08:53:46.108361 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\heart_disease_million_rows.csv -> C:\Users\vivek\Documents\test_folder\invoice\heart_disease_million_rows.csv
+2026-01-19 08:53:46.109528 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\heart_disease_model_ready.csv -> C:\Users\vivek\Documents\test_folder\invoice\heart_disease_model_ready.csv
+2026-01-19 08:53:46.110591 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\heart_disease_titan_ready.csv -> C:\Users\vivek\Documents\test_folder\invoice\heart_disease_titan_ready.csv
+2026-01-19 08:53:46.111237 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\blog
+2026-01-19 08:53:46.112434 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\Methodology.docx -> C:\Users\vivek\Documents\test_folder\blog\Methodology.docx
+2026-01-19 08:53:46.113240 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\research
+2026-01-19 08:53:46.114422 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\Result & Discussion.docx -> C:\Users\vivek\Documents\test_folder\research\Result & Discussion.docx
+2026-01-19 08:53:58.399067 |  INFO  : Reverting the changes
+2026-01-19 08:53:58.400527 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\research\Result & Discussion.docx -> C:\Users\vivek\Documents\test_folder\Result & Discussion.docx
+2026-01-19 08:53:58.401763 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Documents\test_folder\research
+2026-01-19 08:53:58.402737 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\blog\Methodology.docx -> C:\Users\vivek\Documents\test_folder\Methodology.docx
+2026-01-19 08:53:58.403724 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Documents\test_folder\blog
+2026-01-19 08:53:58.404730 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_titan_ready.csv -> C:\Users\vivek\Documents\test_folder\heart_disease_titan_ready.csv
+2026-01-19 08:53:58.406249 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_model_ready.csv -> C:\Users\vivek\Documents\test_folder\heart_disease_model_ready.csv
+2026-01-19 08:53:58.407652 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_million_rows.csv -> C:\Users\vivek\Documents\test_folder\heart_disease_million_rows.csv
+2026-01-19 08:53:58.409305 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\invoice\heart_disease_cleaned_unique.csv -> C:\Users\vivek\Documents\test_folder\heart_disease_cleaned_unique.csv
+2026-01-19 08:53:58.411036 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\invoice\Conference-template-A4.doc -> C:\Users\vivek\Documents\test_folder\Conference-template-A4.doc
+2026-01-19 08:53:58.412070 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Documents\test_folder\invoice
