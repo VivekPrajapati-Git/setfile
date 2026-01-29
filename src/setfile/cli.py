@@ -6,7 +6,9 @@ from .utils.reader import read_file
 from .core.prediction import prediction
 from .utils.logger import logger as log
 from .utils.history import log_reader
+from .utils.file_rules import get_label
 
+# Making one single command
 @click.group()
 def main():
     pass
@@ -44,11 +46,10 @@ def organize(path):
     result = {}
     for file in files:
         try:
-            text = read_file(file)
-            predict = prediction(text)
-            log.info(f"{file.name} -> {predict[0]}")
-            result.update({file : predict[0]})
-            print(file.name , ":" , predict[0])
+            predict = get_label(file)
+            log.info(f"{file.name} -> {predict}")
+            result.update({file : predict})
+            print(file.name , ":" , predict)
         except Exception as e:
             log.error(f"Prediction failed for {file.name} : {e}")
             return

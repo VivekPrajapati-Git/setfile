@@ -1,6 +1,0 @@
-[project]
-name = "mycli"
-version = "0.1.0"
-
-[project.scripts]
-setfile = "setfile.cli:main"

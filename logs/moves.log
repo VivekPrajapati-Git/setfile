@@ -27,3 +27,44 @@
 2026-01-19 08:53:46.110883 | 20260119_085346 |  MOVE  | C:\Users\vivek\Documents\test_folder\heart_disease_titan_ready.csv -> C:\Users\vivek\Documents\test_folder\invoice\heart_disease_titan_ready.csv
 2026-01-19 08:53:46.112775 | 20260119_085346 |  MOVE  | C:\Users\vivek\Documents\test_folder\Methodology.docx -> C:\Users\vivek\Documents\test_folder\blog\Methodology.docx
 2026-01-19 08:53:46.114765 | 20260119_085346 |  MOVE  | C:\Users\vivek\Documents\test_folder\Result & Discussion.docx -> C:\Users\vivek\Documents\test_folder\research\Result & Discussion.docx
+2026-01-29 19:58:35.889690 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\10th mark sheet.pdf -> C:\Users\vivek\Downloads\invoice\10th mark sheet.pdf
+2026-01-29 19:58:35.892695 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\10th.jpg -> C:\Users\vivek\Downloads\images\10th.jpg
+2026-01-29 19:58:35.894713 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\2501.00663v1.pdf -> C:\Users\vivek\Downloads\book\2501.00663v1.pdf
+2026-01-29 19:58:35.896778 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\Cardiovascular_Disease_Dataset.csv -> C:\Users\vivek\Downloads\others\Cardiovascular_Disease_Dataset.csv
+2026-01-29 19:58:35.898307 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\ChatGPT Image Dec 30, 2025, 03_14_50 PM.png -> C:\Users\vivek\Downloads\images\ChatGPT Image Dec 30, 2025, 03_14_50 PM.png
+2026-01-29 19:58:35.900214 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\Conference-template-A4.doc -> C:\Users\vivek\Downloads\others\Conference-template-A4.doc
+2026-01-29 19:58:35.902106 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\dataset.csv -> C:\Users\vivek\Downloads\others\dataset.csv
+2026-01-29 19:58:35.903977 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\desktop.ini -> C:\Users\vivek\Downloads\others\desktop.ini
+2026-01-29 19:58:35.907897 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\download.pdf -> C:\Users\vivek\Downloads\research\download.pdf
+2026-01-29 19:58:35.910442 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf -> C:\Users\vivek\Downloads\book\Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf
+2026-01-29 19:58:35.911775 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\EKSHETRA S2 NEW.pdf -> C:\Users\vivek\Downloads\research\EKSHETRA S2 NEW.pdf
+2026-01-29 19:58:35.913118 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\Graduation.jpg -> C:\Users\vivek\Downloads\images\Graduation.jpg
+2026-01-29 19:58:35.914929 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\heart (1).csv -> C:\Users\vivek\Downloads\others\heart (1).csv
+2026-01-29 19:58:35.917272 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\heart (2).csv -> C:\Users\vivek\Downloads\others\heart (2).csv
+2026-01-29 19:58:35.919599 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\heart (3).csv -> C:\Users\vivek\Downloads\others\heart (3).csv
+2026-01-29 19:58:35.922577 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\heart+disease.zip -> C:\Users\vivek\Downloads\archives\heart+disease.zip
+2026-01-29 19:58:35.924302 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\heart_2022_no_nans - heart_2022_no_nans.csv -> C:\Users\vivek\Downloads\others\heart_2022_no_nans - heart_2022_no_nans.csv
+2026-01-29 19:58:35.926078 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\heart_disease.csv -> C:\Users\vivek\Downloads\others\heart_disease.csv
+2026-01-29 19:58:35.927807 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\heart_disease_cleaned.csv -> C:\Users\vivek\Downloads\others\heart_disease_cleaned.csv
+2026-01-29 19:58:35.929559 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\heart_disease_cleaned_unique.csv -> C:\Users\vivek\Downloads\others\heart_disease_cleaned_unique.csv
+2026-01-29 19:58:35.931267 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\Heart_Disease_Dataset.csv -> C:\Users\vivek\Downloads\others\Heart_Disease_Dataset.csv
+2026-01-29 19:58:35.932986 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\heart_disease_million_rows.csv -> C:\Users\vivek\Downloads\others\heart_disease_million_rows.csv
+2026-01-29 19:58:35.934743 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\heart_disease_model_ready.csv -> C:\Users\vivek\Downloads\others\heart_disease_model_ready.csv
+2026-01-29 19:58:35.936523 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\heart_Disease_Testing_Dataset.csv -> C:\Users\vivek\Downloads\others\heart_Disease_Testing_Dataset.csv
+2026-01-29 19:58:35.938237 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\heart_disease_titan_ready.csv -> C:\Users\vivek\Downloads\others\heart_disease_titan_ready.csv
+2026-01-29 19:58:35.939954 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\Heart_Disease_Training_Dataset.csv -> C:\Users\vivek\Downloads\others\Heart_Disease_Training_Dataset.csv
+2026-01-29 19:58:35.943309 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\heart_disease_uci.csv -> C:\Users\vivek\Downloads\others\heart_disease_uci.csv
+2026-01-29 19:58:35.945101 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx -> C:\Users\vivek\Downloads\invoice\icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx
+2026-01-29 19:58:35.946799 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\literature review (1).docx -> C:\Users\vivek\Downloads\research\literature review (1).docx
+2026-01-29 19:58:35.948806 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\literature review.docx -> C:\Users\vivek\Downloads\research\literature review.docx
+2026-01-29 19:58:35.952232 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\Marksheet First Year.jpg -> C:\Users\vivek\Downloads\images\Marksheet First Year.jpg
+2026-01-29 19:58:35.954034 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\Marksheet First Year.png -> C:\Users\vivek\Downloads\images\Marksheet First Year.png
+2026-01-29 19:58:35.955787 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\MarksheetSecond year.jpeg -> C:\Users\vivek\Downloads\images\MarksheetSecond year.jpeg
+2026-01-29 19:58:35.958319 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\Methodology.docx -> C:\Users\vivek\Downloads\blog\Methodology.docx
+2026-01-29 19:58:35.960153 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\processed_cleveland.csv -> C:\Users\vivek\Downloads\others\processed_cleveland.csv
+2026-01-29 19:58:35.961965 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\Result & Discussion.docx -> C:\Users\vivek\Downloads\research\Result & Discussion.docx
+2026-01-29 19:58:35.963693 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\SETFILE (1).png -> C:\Users\vivek\Downloads\images\SETFILE (1).png
+2026-01-29 19:58:35.965408 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\SETFILE.png -> C:\Users\vivek\Downloads\images\SETFILE.png
+2026-01-29 19:58:35.967222 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\statlog+heart.zip -> C:\Users\vivek\Downloads\archives\statlog+heart.zip
+2026-01-29 19:58:35.968955 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\Subscriptions-Data-20260111150240.csv -> C:\Users\vivek\Downloads\others\Subscriptions-Data-20260111150240.csv
+2026-01-29 19:58:35.974551 | 20260129_195835 |  MOVE  | C:\Users\vivek\Downloads\Titan model.pdf -> C:\Users\vivek\Downloads\book\Titan model.pdf
