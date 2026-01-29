@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/mycli.egg-info/PKG-INFO
+src/mycli.egg-info/SOURCES.txt
+src/mycli.egg-info/dependency_links.txt
+src/mycli.egg-info/entry_points.txt
+src/mycli.egg-info/top_level.txt
+src/setfile/__init__.py
+src/setfile/__main__.py
+src/setfile/cli.py
+src/setfile/core/prediction.py
+src/setfile/utils/logger.py
+src/setfile/utils/reader.py
