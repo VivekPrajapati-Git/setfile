@@ -1,0 +1,6 @@
+PyPDF2
+joblib
+click
+docxpy
+python-pptx
+scikit-learn
