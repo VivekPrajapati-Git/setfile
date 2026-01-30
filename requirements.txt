@@ -4,3 +4,5 @@ click
 docxpy
 python-pptx
 scikit-learn
+flask
+google_auth_oauthlib
