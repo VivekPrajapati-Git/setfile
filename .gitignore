@@ -6,3 +6,5 @@ venv/
 .vscode/
 secret/
 gmail_token.json
+session.json
+/data
