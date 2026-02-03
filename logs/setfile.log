@@ -1217,3 +1217,14 @@
 2026-01-30 16:03:34.521282 |  INFO  : Titan model.pdf -> book
 2026-01-30 16:03:34.522020 |  INFO  : Organizing the file
 2026-01-30 16:03:51.284504 |  WARNING  : User aborted the organizing
+2026-02-03 17:25:24.330062 |  INFO  : Checking the folder
+2026-02-03 17:25:24.331727 |  WARNING  : Skipped files -> .git
+2026-02-03 17:25:24.332324 |  INFO  : files found -> .gitignore
+2026-02-03 17:25:24.332759 |  WARNING  : Skipped files -> data
+2026-02-03 17:25:24.333762 |  WARNING  : Skipped files -> logs
+2026-02-03 17:25:24.334233 |  INFO  : files found -> pyproject.toml
+2026-02-03 17:25:24.335209 |  INFO  : files found -> README.md
+2026-02-03 17:25:24.335687 |  INFO  : files found -> requirements.txt
+2026-02-03 17:25:24.336127 |  WARNING  : Skipped files -> secret
+2026-02-03 17:25:24.336501 |  WARNING  : Skipped files -> src
+2026-02-03 17:25:26.109639 |  WARNING  : User Aborted the prediction
