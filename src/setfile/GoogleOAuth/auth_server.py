@@ -59,6 +59,7 @@ def callback():
     with open(path,'w') as f:
         f.write(f'{user_info}')
 
+    print("Callback Received",flush=True)
     return "Login successful! You can close this tab."
 
 @app.route('/')

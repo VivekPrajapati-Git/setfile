@@ -1228,3 +1228,14 @@
 2026-02-03 17:25:24.336127 |  WARNING  : Skipped files -> secret
 2026-02-03 17:25:24.336501 |  WARNING  : Skipped files -> src
 2026-02-03 17:25:26.109639 |  WARNING  : User Aborted the prediction
+2026-02-04 16:51:31.912680 |  INFO  : Checking the folder
+2026-02-04 16:51:31.914502 |  WARNING  : Skipped files -> .git
+2026-02-04 16:51:31.915435 |  INFO  : files found -> .gitignore
+2026-02-04 16:51:31.915942 |  WARNING  : Skipped files -> data
+2026-02-04 16:51:31.916373 |  WARNING  : Skipped files -> logs
+2026-02-04 16:51:31.916945 |  INFO  : files found -> pyproject.toml
+2026-02-04 16:51:31.917831 |  INFO  : files found -> README.md
+2026-02-04 16:51:31.918464 |  INFO  : files found -> requirements.txt
+2026-02-04 16:51:31.918966 |  WARNING  : Skipped files -> secret
+2026-02-04 16:51:31.919403 |  WARNING  : Skipped files -> src
+2026-02-04 16:51:33.336361 |  WARNING  : User Aborted the prediction

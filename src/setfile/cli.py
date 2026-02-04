@@ -5,6 +5,7 @@ import subprocess
 import time
 from src.setfile.commands.organize import organize_files
 from src.setfile.commands.revert import revert
+from src.setfile.commands.gmail_auth import gmail_auth
 
 # Making one single command
 @click.group()
@@ -22,17 +23,11 @@ def revert():
     revert()
 
 @main.command()
-def gmail_auth():
-    click.echo("Starting Gmail Authentication Server...")
-    subprocess.Popen(["python", "-m", "setfile.GoogleOAuth.auth_server"])
-    time.sleep(1.5)
-
-    webbrowser.open("http://localhost:5000/")
-    click.echo("Browser Opened for gmail connection..")
-    click.echo("After Connection you can close the browser!")
+def gmailauth():
+    gmail_auth()
 
 @main.command()
-def gmail_org():
+def gmailorg():
     pass
 
 if __name__ == "__main__":
