@@ -1,11 +1,5 @@
 import os
 import click
-import webbrowser
-import subprocess
-import time
-from src.setfile.commands.organize import organize_files
-from src.setfile.commands.revert import revert
-from src.setfile.commands.gmail_auth import gmail_auth
 
 # Making one single command
 @click.group()
@@ -16,19 +10,23 @@ def main():
 @main.command()
 @click.option('--path',default = os.curdir)
 def organize(path):
+    from src.setfile.commands.organize import organize_files
     organize_files(path)
     
 @main.command()
 def revert():
+    from src.setfile.commands.revert import revert
     revert()
 
 @main.command()
 def gmailauth():
+    from src.setfile.commands.gmail_auth import gmail_auth
     gmail_auth()
 
 @main.command()
-def gmailorg():
-    pass
+def gmail_download():
+    from src.setfile.commands.gmail_download import download
+    download()
 
 if __name__ == "__main__":
     main()
