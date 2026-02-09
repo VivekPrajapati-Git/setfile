@@ -1,10 +1,10 @@
 import os
+import keyring
 import pathlib
+import json
 import requests as r
 from flask import Flask, session, redirect, request
 from google_auth_oauthlib.flow import Flow
-from setfile.GoogleOAuth.db import get_db, init_db
-import threading
 
 app = Flask("Google-Login App")
 app.secret_key = "hello"
@@ -45,21 +45,18 @@ def callback():
         headers={"Authorization": f"Bearer {credentials.token}"}
     ).json()
 
-    google_id = user_info['id']
     email = user_info['email']
 
-    expires_at = credentials.expiry.isoformat() if credentials.expiry else None
-    db = get_db()
-    cursor = db.cursor()
-    cursor.execute("INSERT OR REPLACE INTO users (google_id, email, access_token , refresh_token , expires_at) VALUES (?, ?, ?, ?, ?)", (google_id, email, credentials.token, credentials.refresh_token or "", expires_at))
-    db.commit()
-    db.close()
+    keyring.set_password(
+        "gmail_cli",
+        email,
+        json.dumps(credentials.to_json())
+    )
 
-    path = pathlib.Path(__file__).resolve().parent.parent/'session.json'
-    with open(path,'w') as f:
-        f.write(f'{user_info}')
+    path = pathlib.Path(__file__).resolve().parent.parent/'session.txt'
+    with open(path,'w',encoding='utf-8') as f:
+        f.write(f'{email}')
 
-    print("Callback Received",flush=True)
     return "Login successful! You can close this tab."
 
 @app.route('/')
@@ -67,5 +64,4 @@ def index():
     return "<button><a href='/login'>Login</a></button>"
 
 if __name__ == "__main__":
-    init_db()
     app.run(port=5000)

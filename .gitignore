@@ -8,3 +8,4 @@ secret/
 gmail_token.json
 session.json
 /data
+session.txt

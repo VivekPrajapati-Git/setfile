@@ -7,7 +7,7 @@ import flask
 def gmail_auth():
     click.echo("Starting Gmail Authentication Server...")
     subprocess.Popen([
-        "python", "-m", "setfile.GoogleOAuth.auth_server"],
+        "python", "-m", "setfile.GoogleOAuth.gmail_auth"],
     )
 
     time.sleep(1.5)
