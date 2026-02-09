@@ -12,6 +12,7 @@ sys.path.append(str(Path(__file__).parent.parent))
 from src.setfile.commands.organize import organize_files
 from src.setfile.commands.revert import revert
 from src.setfile.commands.gmail_auth import gmail_auth
+from src.setfile.commands.gmail_download import download
 from GUI.utils import ClickPatcher
 
 customtkinter.set_appearance_mode("System")
@@ -51,6 +52,7 @@ class App(customtkinter.CTk):
         self.tabview.add("Organize")
         self.tabview.add("Revert")
         self.tabview.add("Authentication")
+        self.tabview.add("Download")
 
         # --- Organize Tab ---
         self.tabview.tab("Organize").grid_columnconfigure(0, weight=1)
@@ -99,6 +101,18 @@ class App(customtkinter.CTk):
         self.auth_log.grid(row=2, column=0, padx=20, pady=20, sticky="ew")
         self.auth_log.insert("0.0", "Auth logs...\n")
         self.auth_log.configure(state="disabled")
+
+        # --- Download Tab ---
+        self.tabview.tab("Download").grid_columnconfigure(0, weight=1)
+        self.tabview.tab("Download").grid_rowconfigure(1, weight=1)
+
+        self.download_button = customtkinter.CTkButton(self.tabview.tab("Download"), text="Download Attachments", command=self.start_download_thread)
+        self.download_button.grid(row=0, column=0, padx=20, pady=20)
+
+        self.download_log = customtkinter.CTkTextbox(self.tabview.tab("Download"), width=250)
+        self.download_log.grid(row=1, column=0, padx=20, pady=(0, 20), sticky="nsew")
+        self.download_log.insert("0.0", "Logs will appear here...\n")
+        self.download_log.configure(state="disabled")
 
 
     def change_appearance_mode_event(self, new_appearance_mode: str):
@@ -183,6 +197,24 @@ class App(customtkinter.CTk):
                     print(f"\nError: {e}")
         finally:
             self.auth_button.configure(state="normal")
+
+    def start_download_thread(self):
+        self.download_log.configure(state="normal")
+        self.download_log.delete("0.0", "end")
+        self.download_log.configure(state="disabled")
+
+        threading.Thread(target=self.run_download, daemon=True).start()
+
+    def run_download(self):
+        self.download_button.configure(state="disabled")
+        try:
+             with ClickPatcher(self.download_log, self.confirm_dialog):
+                try:
+                    download()
+                except Exception as e:
+                    print(f"\nError: {e}")
+        finally:
+            self.download_button.configure(state="normal")
 
 if __name__ == "__main__":
     app = App()
