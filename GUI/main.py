@@ -17,6 +17,59 @@ from GUI.utils import ClickPatcher
 customtkinter.set_appearance_mode("System")
 customtkinter.set_default_color_theme("blue")
 
+class CustomConfirmDialog(customtkinter.CTkToplevel):
+    def __init__(self, master, text, title="Confirmation"):
+        super().__init__(master)
+
+        self.user_choice = None
+        self.title(title)
+        self.geometry("300x150")
+        self.resizable(False, False)
+
+        # Position in bottom-right of master window
+        master_x = master.winfo_x()
+        master_y = master.winfo_y()
+        master_width = master.winfo_width()
+        master_height = master.winfo_height()
+        
+        # padding
+        pad_x = 20
+        pad_y = 20
+        
+        # Calculate position (Bottom Right)
+        x_pos = master_x + master_width - 300 - pad_x
+        y_pos = master_y + master_height - 150 - pad_y
+        
+        self.geometry(f"+{x_pos}+{y_pos}")
+
+        self.label = customtkinter.CTkLabel(self, text=text, wraplength=280)
+        self.label.pack(pady=20, padx=20)
+
+        self.button_frame = customtkinter.CTkFrame(self, fg_color="transparent")
+        self.button_frame.pack(pady=10)
+
+        self.yes_button = customtkinter.CTkButton(self.button_frame, text="Yes", width=80, command=self.yes_event)
+        self.yes_button.pack(side="left", padx=10)
+
+        self.no_button = customtkinter.CTkButton(self.button_frame, text="No", width=80, fg_color="red", hover_color="darkred", command=self.no_event)
+        self.no_button.pack(side="left", padx=10)
+        
+        # Make modal
+        self.transient(master)
+        self.grab_set()
+        self.master.wait_window(self)
+
+    def yes_event(self):
+        self.user_choice = True
+        self.destroy()
+
+    def no_event(self):
+        self.user_choice = False
+        self.destroy()
+
+    def get_input(self):
+        return self.user_choice
+
 class App(customtkinter.CTk):
     def __init__(self):
         super().__init__()
@@ -127,13 +180,10 @@ class App(customtkinter.CTk):
             self.folder_path_entry.insert(0, folder_selected)
 
     def confirm_dialog(self, text):
-        # We need to run this on the main thread ideally, but since expected to be blocking called from thread...
-        # tkinter messageboxes are thread safe enough usually, or block.
-        # But since we are in a background thread (CLI command), we cannot block the main thread directly
-        # with just a call if we were on main thread. 
-        # Wait, messageboxes are creating a new Toplevel.
-        # Let's try direct call.
-        return messagebox.askyesno("Confirmation", text)
+        dialog = CustomConfirmDialog(self, text=text, title="Confirmation")
+        return dialog.get_input()
+
+
 
     def start_organize_thread(self):
         path = self.folder_path_entry.get()

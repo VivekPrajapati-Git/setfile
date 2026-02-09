@@ -52,3 +52,93 @@
 2026-02-09 17:08:58.660453 |  INFO  : files found -> WQTLQCJ.jpg
 2026-02-09 17:08:58.672479 |  INFO  : files found -> WQTLQCJ_GST_Invoice.pdf
 2026-02-09 17:09:04.720438 |  WARNING  : User Aborted the prediction
+2026-02-09 17:17:21.673397 |  INFO  : Checking the folder
+2026-02-09 17:17:21.678294 |  INFO  : files found -> Conference-template-A4.doc
+2026-02-09 17:17:21.683429 |  INFO  : files found -> dagadu ji receipt.pdf
+2026-02-09 17:17:21.690262 |  INFO  : files found -> Education is the basic tool for the development of consciousness and the reconstitution of society (1).png
+2026-02-09 17:17:21.696650 |  INFO  : files found -> ff680f60-fa98-11f0-8e46-883d24f31764.csv
+2026-02-09 17:17:21.703135 |  INFO  : files found -> heart_disease_cleaned_unique.csv
+2026-02-09 17:17:21.707130 |  INFO  : files found -> heart_disease_million_rows.csv
+2026-02-09 17:17:21.710692 |  INFO  : files found -> heart_disease_model_ready.csv
+2026-02-09 17:17:21.715169 |  INFO  : files found -> heart_disease_titan_ready.csv
+2026-02-09 17:17:21.723125 |  INFO  : files found -> icat-reminder-2025-09-26-1100IST-hourly.ics
+2026-02-09 17:17:21.730656 |  INFO  : files found -> icat-result-2025-09-30-1030IST-30min-hourly-3hr.ics
+2026-02-09 17:17:21.738767 |  INFO  : files found -> image.png
+2026-02-09 17:17:21.746638 |  INFO  : files found -> indexing.png
+2026-02-09 17:17:21.751438 |  INFO  : files found -> Methodology.docx
+2026-02-09 17:17:21.761625 |  INFO  : files found -> Result & Discussion.docx
+2026-02-09 17:17:21.762963 |  INFO  : files found -> Screenshot_20251212_123607_Udemy.jpg
+2026-02-09 17:17:21.763989 |  INFO  : files found -> WQTLQCJ.jpg
+2026-02-09 17:17:21.765152 |  INFO  : files found -> WQTLQCJ_GST_Invoice.pdf
+2026-02-09 17:17:31.556320 |  INFO  : Making the Prediction
+2026-02-09 17:17:31.557041 |  INFO  : C:\Users\vivek\Documents\test_folder\Conference-template-A4.doc : Unsupported Binary File
+2026-02-09 17:17:31.557474 |  INFO  : Conference-template-A4.doc -> others
+2026-02-09 17:17:41.259558 |  INFO  : dagadu ji receipt.pdf -> research
+2026-02-09 17:17:41.292668 |  INFO  : Education is the basic tool for the development of consciousness and the reconstitution of society (1).png -> images
+2026-02-09 17:17:41.330902 |  INFO  : C:\Users\vivek\Documents\test_folder\ff680f60-fa98-11f0-8e46-883d24f31764.csv : Unsupported Binary File
+2026-02-09 17:17:41.331341 |  INFO  : ff680f60-fa98-11f0-8e46-883d24f31764.csv -> others
+2026-02-09 17:17:41.373689 |  INFO  : C:\Users\vivek\Documents\test_folder\heart_disease_cleaned_unique.csv : Unsupported Binary File
+2026-02-09 17:17:41.374135 |  INFO  : heart_disease_cleaned_unique.csv -> others
+2026-02-09 17:17:41.418270 |  INFO  : C:\Users\vivek\Documents\test_folder\heart_disease_million_rows.csv : Unsupported Binary File
+2026-02-09 17:17:41.418995 |  INFO  : heart_disease_million_rows.csv -> others
+2026-02-09 17:17:41.460076 |  INFO  : C:\Users\vivek\Documents\test_folder\heart_disease_model_ready.csv : Unsupported Binary File
+2026-02-09 17:17:41.460512 |  INFO  : heart_disease_model_ready.csv -> others
+2026-02-09 17:17:41.507123 |  INFO  : C:\Users\vivek\Documents\test_folder\heart_disease_titan_ready.csv : Unsupported Binary File
+2026-02-09 17:17:41.507553 |  INFO  : heart_disease_titan_ready.csv -> others
+2026-02-09 17:17:41.553425 |  INFO  : C:\Users\vivek\Documents\test_folder\icat-reminder-2025-09-26-1100IST-hourly.ics : Unsupported Binary File
+2026-02-09 17:17:41.553894 |  INFO  : icat-reminder-2025-09-26-1100IST-hourly.ics -> others
+2026-02-09 17:17:41.603704 |  INFO  : C:\Users\vivek\Documents\test_folder\icat-result-2025-09-30-1030IST-30min-hourly-3hr.ics : Unsupported Binary File
+2026-02-09 17:17:41.604315 |  INFO  : icat-result-2025-09-30-1030IST-30min-hourly-3hr.ics -> others
+2026-02-09 17:17:41.650753 |  INFO  : image.png -> images
+2026-02-09 17:17:41.694767 |  INFO  : indexing.png -> images
+2026-02-09 17:17:41.797479 |  INFO  : Methodology.docx -> blog
+2026-02-09 17:17:41.951331 |  INFO  : Result & Discussion.docx -> research
+2026-02-09 17:17:42.007414 |  INFO  : Screenshot_20251212_123607_Udemy.jpg -> images
+2026-02-09 17:17:42.076437 |  INFO  : WQTLQCJ.jpg -> images
+2026-02-09 17:17:42.245874 |  INFO  : WQTLQCJ_GST_Invoice.pdf -> legal
+2026-02-09 17:17:42.256247 |  INFO  : Organizing the file
+2026-02-09 17:17:54.195530 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\others
+2026-02-09 17:17:54.197184 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\Conference-template-A4.doc -> C:\Users\vivek\Documents\test_folder\others\Conference-template-A4.doc
+2026-02-09 17:17:54.198494 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\research
+2026-02-09 17:17:54.200458 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\dagadu ji receipt.pdf -> C:\Users\vivek\Documents\test_folder\research\dagadu ji receipt.pdf
+2026-02-09 17:17:54.201739 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\images
+2026-02-09 17:17:54.203703 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\Education is the basic tool for the development of consciousness and the reconstitution of society (1).png -> C:\Users\vivek\Documents\test_folder\images\Education is the basic tool for the development of consciousness and the reconstitution of society (1).png
+2026-02-09 17:17:54.205547 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\ff680f60-fa98-11f0-8e46-883d24f31764.csv -> C:\Users\vivek\Documents\test_folder\others\ff680f60-fa98-11f0-8e46-883d24f31764.csv
+2026-02-09 17:17:54.207403 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\heart_disease_cleaned_unique.csv -> C:\Users\vivek\Documents\test_folder\others\heart_disease_cleaned_unique.csv
+2026-02-09 17:17:54.209053 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\heart_disease_million_rows.csv -> C:\Users\vivek\Documents\test_folder\others\heart_disease_million_rows.csv
+2026-02-09 17:17:54.210170 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\heart_disease_model_ready.csv -> C:\Users\vivek\Documents\test_folder\others\heart_disease_model_ready.csv
+2026-02-09 17:17:54.211287 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\heart_disease_titan_ready.csv -> C:\Users\vivek\Documents\test_folder\others\heart_disease_titan_ready.csv
+2026-02-09 17:17:54.212419 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\icat-reminder-2025-09-26-1100IST-hourly.ics -> C:\Users\vivek\Documents\test_folder\others\icat-reminder-2025-09-26-1100IST-hourly.ics
+2026-02-09 17:17:54.213561 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\icat-result-2025-09-30-1030IST-30min-hourly-3hr.ics -> C:\Users\vivek\Documents\test_folder\others\icat-result-2025-09-30-1030IST-30min-hourly-3hr.ics
+2026-02-09 17:17:54.215166 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\image.png -> C:\Users\vivek\Documents\test_folder\images\image.png
+2026-02-09 17:17:54.216943 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\indexing.png -> C:\Users\vivek\Documents\test_folder\images\indexing.png
+2026-02-09 17:17:54.218071 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\blog
+2026-02-09 17:17:54.219420 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\Methodology.docx -> C:\Users\vivek\Documents\test_folder\blog\Methodology.docx
+2026-02-09 17:17:54.221198 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\Result & Discussion.docx -> C:\Users\vivek\Documents\test_folder\research\Result & Discussion.docx
+2026-02-09 17:17:54.223623 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\Screenshot_20251212_123607_Udemy.jpg -> C:\Users\vivek\Documents\test_folder\images\Screenshot_20251212_123607_Udemy.jpg
+2026-02-09 17:17:54.225368 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\WQTLQCJ.jpg -> C:\Users\vivek\Documents\test_folder\images\WQTLQCJ.jpg
+2026-02-09 17:17:54.226341 |  INFO  : Making the directory of label -> C:\Users\vivek\Documents\test_folder\legal
+2026-02-09 17:17:54.227613 |  INFO  : Moved files : C:\Users\vivek\Documents\test_folder\WQTLQCJ_GST_Invoice.pdf -> C:\Users\vivek\Documents\test_folder\legal\WQTLQCJ_GST_Invoice.pdf
+2026-02-09 17:18:05.234463 |  INFO  : Reverting the changes
+2026-02-09 17:18:05.236001 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\legal\WQTLQCJ_GST_Invoice.pdf -> C:\Users\vivek\Documents\test_folder\WQTLQCJ_GST_Invoice.pdf
+2026-02-09 17:18:05.237252 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Documents\test_folder\legal
+2026-02-09 17:18:05.238353 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\images\WQTLQCJ.jpg -> C:\Users\vivek\Documents\test_folder\WQTLQCJ.jpg
+2026-02-09 17:18:05.240468 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\images\Screenshot_20251212_123607_Udemy.jpg -> C:\Users\vivek\Documents\test_folder\Screenshot_20251212_123607_Udemy.jpg
+2026-02-09 17:18:05.241886 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\research\Result & Discussion.docx -> C:\Users\vivek\Documents\test_folder\Result & Discussion.docx
+2026-02-09 17:18:05.243185 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\blog\Methodology.docx -> C:\Users\vivek\Documents\test_folder\Methodology.docx
+2026-02-09 17:18:05.244188 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Documents\test_folder\blog
+2026-02-09 17:18:05.245111 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\images\indexing.png -> C:\Users\vivek\Documents\test_folder\indexing.png
+2026-02-09 17:18:05.246472 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\images\image.png -> C:\Users\vivek\Documents\test_folder\image.png
+2026-02-09 17:18:05.247789 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\others\icat-result-2025-09-30-1030IST-30min-hourly-3hr.ics -> C:\Users\vivek\Documents\test_folder\icat-result-2025-09-30-1030IST-30min-hourly-3hr.ics
+2026-02-09 17:18:05.249149 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\others\icat-reminder-2025-09-26-1100IST-hourly.ics -> C:\Users\vivek\Documents\test_folder\icat-reminder-2025-09-26-1100IST-hourly.ics
+2026-02-09 17:18:05.250810 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\others\heart_disease_titan_ready.csv -> C:\Users\vivek\Documents\test_folder\heart_disease_titan_ready.csv
+2026-02-09 17:18:05.252409 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\others\heart_disease_model_ready.csv -> C:\Users\vivek\Documents\test_folder\heart_disease_model_ready.csv
+2026-02-09 17:18:05.255894 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\others\heart_disease_million_rows.csv -> C:\Users\vivek\Documents\test_folder\heart_disease_million_rows.csv
+2026-02-09 17:18:05.257278 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\others\heart_disease_cleaned_unique.csv -> C:\Users\vivek\Documents\test_folder\heart_disease_cleaned_unique.csv
+2026-02-09 17:18:05.258405 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\others\ff680f60-fa98-11f0-8e46-883d24f31764.csv -> C:\Users\vivek\Documents\test_folder\ff680f60-fa98-11f0-8e46-883d24f31764.csv
+2026-02-09 17:18:05.259581 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\images\Education is the basic tool for the development of consciousness and the reconstitution of society (1).png -> C:\Users\vivek\Documents\test_folder\Education is the basic tool for the development of consciousness and the reconstitution of society (1).png
+2026-02-09 17:18:05.260439 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Documents\test_folder\images
+2026-02-09 17:18:05.261177 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\research\dagadu ji receipt.pdf -> C:\Users\vivek\Documents\test_folder\dagadu ji receipt.pdf
+2026-02-09 17:18:05.261986 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Documents\test_folder\research
+2026-02-09 17:18:05.262752 |  INFO  : Reverted Files : C:\Users\vivek\Documents\test_folder\others\Conference-template-A4.doc -> C:\Users\vivek\Documents\test_folder\Conference-template-A4.doc
+2026-02-09 17:18:05.263688 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Documents\test_folder\others
