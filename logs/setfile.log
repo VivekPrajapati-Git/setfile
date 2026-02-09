@@ -33,3 +33,22 @@
 2026-02-06 19:00:46.072605 |  INFO  : Result & Discussion.docx -> research
 2026-02-06 19:00:46.088310 |  INFO  : Organizing the file
 2026-02-06 19:00:49.455448 |  WARNING  : User aborted the organizing
+2026-02-09 17:08:58.545547 |  INFO  : Checking the folder
+2026-02-09 17:08:58.551911 |  INFO  : files found -> Conference-template-A4.doc
+2026-02-09 17:08:58.555493 |  INFO  : files found -> dagadu ji receipt.pdf
+2026-02-09 17:08:58.562641 |  INFO  : files found -> Education is the basic tool for the development of consciousness and the reconstitution of society (1).png
+2026-02-09 17:08:58.569780 |  INFO  : files found -> ff680f60-fa98-11f0-8e46-883d24f31764.csv
+2026-02-09 17:08:58.576688 |  INFO  : files found -> heart_disease_cleaned_unique.csv
+2026-02-09 17:08:58.578041 |  INFO  : files found -> heart_disease_million_rows.csv
+2026-02-09 17:08:58.586594 |  INFO  : files found -> heart_disease_model_ready.csv
+2026-02-09 17:08:58.594003 |  INFO  : files found -> heart_disease_titan_ready.csv
+2026-02-09 17:08:58.602707 |  INFO  : files found -> icat-reminder-2025-09-26-1100IST-hourly.ics
+2026-02-09 17:08:58.611605 |  INFO  : files found -> icat-result-2025-09-30-1030IST-30min-hourly-3hr.ics
+2026-02-09 17:08:58.621028 |  INFO  : files found -> image.png
+2026-02-09 17:08:58.626725 |  INFO  : files found -> indexing.png
+2026-02-09 17:08:58.636727 |  INFO  : files found -> Methodology.docx
+2026-02-09 17:08:58.648360 |  INFO  : files found -> Result & Discussion.docx
+2026-02-09 17:08:58.653758 |  INFO  : files found -> Screenshot_20251212_123607_Udemy.jpg
+2026-02-09 17:08:58.660453 |  INFO  : files found -> WQTLQCJ.jpg
+2026-02-09 17:08:58.672479 |  INFO  : files found -> WQTLQCJ_GST_Invoice.pdf
+2026-02-09 17:09:04.720438 |  WARNING  : User Aborted the prediction

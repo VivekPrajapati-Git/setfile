@@ -8,6 +8,9 @@ import json
 
 email_file = Path(__file__).resolve().parent.parent/'session.txt'
 
+if not email_file.exists():
+    raise Exception("User is not logged in.")
+
 with open(email_file, 'r') as f:
     email = f.read()
 

@@ -12,7 +12,6 @@ sys.path.append(str(Path(__file__).parent.parent))
 from src.setfile.commands.organize import organize_files
 from src.setfile.commands.revert import revert
 from src.setfile.commands.gmail_auth import gmail_auth
-from src.setfile.commands.gmail_download import download
 from GUI.utils import ClickPatcher
 
 customtkinter.set_appearance_mode("System")
@@ -209,7 +208,14 @@ class App(customtkinter.CTk):
         self.download_button.configure(state="disabled")
         try:
              with ClickPatcher(self.download_log, self.confirm_dialog):
+                # Check for session.txt
+                session_file = Path(__file__).parent.parent / "src" / "setfile" / "session.txt"
+                if not session_file.exists():
+                     print("First authenticate or connect google account .")
+                     return
+                
                 try:
+                    from src.setfile.commands.gmail_download import download
                     download()
                 except Exception as e:
                     print(f"\nError: {e}")
