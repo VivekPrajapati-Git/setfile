@@ -14,13 +14,13 @@ class Logger:
 
         if level == ' ERROR ':
             log_path = self.error_log
-        elif level == " MOVE ":
+        elif level == " MOVE " or level == " REMOVED ":
             log_path = self.moves_log
         else:
             log_path = self.log_file
 
         with open(log_path , "a") as f:
-            if level == ' MOVE ':
+            if level == ' MOVE ' or level == ' REMOVED ':
                 run_id = message[0]
                 file_path = message[1]
                 destination = message[2]
@@ -41,5 +41,9 @@ class Logger:
     def moves(self,run_id , file_path , destination):
         message = [run_id,file_path,destination]
         self._write(" MOVE ", message)
+
+    def removed(self,run_id, file_path, destination):
+        message = [run_id,file_path,destination]
+        self._write(" REMOVED ", message)
 
 logger = Logger()

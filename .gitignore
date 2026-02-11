@@ -9,3 +9,7 @@ gmail_token.json
 session.json
 /data
 session.txt
+cli.spec
+main.spec
+dist
+build

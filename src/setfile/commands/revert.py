@@ -6,7 +6,8 @@ import os
 
 def revert():
     run_id , moves = log_reader()
-    if not run_id:
+    
+    if not run_id: 
         click.echo("No Files to revert")
         return
 
@@ -17,17 +18,24 @@ def revert():
 
     log.info("Reverting the changes")
     for move in reversed(moves):
+        move_type = move['type']
+        if move_type == '  REMOVED  ':
+            click.echo("No Files to revert")
+            return "Organize first"
+        
         src = move['src']
         des = move['des']
         source = Path(src.strip())
         destination = Path(des.strip())
         os.rename(destination,source)
         log.info(f"Reverted Files : {destination} -> {source}")
-        
+        log.removed(run_id,destination,source)
+
         label_folder = destination.resolve().parent
         try:
             Path.rmdir(label_folder)
             log.warning(f"Removing the Parent Folder -> {label_folder}")
         except OSError:
             pass
+
     click.echo("Files reverted Successfully")

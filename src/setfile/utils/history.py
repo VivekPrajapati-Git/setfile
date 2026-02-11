@@ -9,8 +9,9 @@ def log_reader():
             parts = line.strip().split('|')
 
             run_id = parts[1]
-
+            move_type = parts[2]
             moves = parts[3]
+
             src , des = moves.split('->')
 
             if run_id not in result:
@@ -18,6 +19,7 @@ def log_reader():
 
             result[run_id].append({
                 "src" : src,
-                "des" : des
+                "des" : des,
+                "type" : move_type
             })
     return result.popitem()
