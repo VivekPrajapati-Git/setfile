@@ -1,7 +1,7 @@
 import os
 from .reader import read_file
 from .logger import logger
-from setfile.core.prediction import prediction
+from setfile.core.prediction import predict
 
 EXTENSION_RULES = {
   ".exe": "installers",
@@ -39,8 +39,8 @@ def get_label(path):
         return "others"
     
     try:
-        predict = prediction(text)
-        return predict[0]
+        prediction = predict(text)
+        return prediction
     except:
         logger.warning("Model Failed to predict")
         return "others"

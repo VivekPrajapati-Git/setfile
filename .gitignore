@@ -13,3 +13,4 @@ cli.spec
 main.spec
 dist
 build
+gemma-weights

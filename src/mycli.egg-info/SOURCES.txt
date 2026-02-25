@@ -1,4 +1,3 @@
-LICENSE
 README.md
 pyproject.toml
 src/mycli.egg-info/PKG-INFO
@@ -6,9 +5,17 @@ src/mycli.egg-info/SOURCES.txt
 src/mycli.egg-info/dependency_links.txt
 src/mycli.egg-info/entry_points.txt
 src/mycli.egg-info/top_level.txt
-src/setfile/__init__.py
 src/setfile/__main__.py
 src/setfile/cli.py
+src/setfile/GoogleOAuth/gmail_auth.py
+src/setfile/GoogleOAuth/gmail_functions.py
+src/setfile/commands/gmail_auth.py
+src/setfile/commands/gmail_download.py
+src/setfile/commands/organize.py
+src/setfile/commands/revert.py
 src/setfile/core/prediction.py
+src/setfile/model/model.py
+src/setfile/utils/file_rules.py
+src/setfile/utils/history.py
 src/setfile/utils/logger.py
 src/setfile/utils/reader.py

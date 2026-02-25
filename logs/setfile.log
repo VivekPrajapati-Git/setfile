@@ -1,514 +1,403 @@
-2026-02-11 16:30:03.020032 |  INFO  : Checking the folder
-2026-02-11 16:30:03.021431 |  INFO  : files found -> 10th mark sheet.pdf
-2026-02-11 16:30:03.022048 |  INFO  : files found -> 10th.jpg
-2026-02-11 16:30:03.022747 |  WARNING  : Skipped files -> C:\users\Vivek\Downloads\1770372440269
-2026-02-11 16:30:03.023299 |  INFO  : files found -> 211696_Limits_Paper.pdf
-2026-02-11 16:30:03.024058 |  INFO  : files found -> 211696_Limits_Sol.pdf
-2026-02-11 16:30:03.024661 |  INFO  : files found -> 2501.00663v1.pdf
-2026-02-11 16:30:03.025436 |  INFO  : files found -> Cardiovascular_Disease_Dataset.csv
-2026-02-11 16:30:03.026090 |  INFO  : files found -> ChatGPT Image Dec 30, 2025, 03_14_50 PM.png
-2026-02-11 16:30:03.026659 |  INFO  : files found -> client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json
-2026-02-11 16:30:03.027497 |  INFO  : files found -> client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json
-2026-02-11 16:30:03.028219 |  INFO  : files found -> Conference-template-A4.doc
-2026-02-11 16:30:03.028909 |  INFO  : files found -> dataset.csv
-2026-02-11 16:30:03.029543 |  INFO  : files found -> download.pdf
-2026-02-11 16:30:03.030154 |  INFO  : files found -> Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf
-2026-02-11 16:30:03.030941 |  INFO  : files found -> EKSHETRA S2 NEW.pdf
-2026-02-11 16:30:03.031445 |  WARNING  : Skipped files -> C:\users\Vivek\Downloads\gmail-download
-2026-02-11 16:30:03.032003 |  INFO  : files found -> gmail_auth.json
-2026-02-11 16:30:03.032661 |  INFO  : files found -> Graduation.jpg
-2026-02-11 16:30:03.034031 |  INFO  : files found -> heart (1).csv
-2026-02-11 16:30:03.035146 |  INFO  : files found -> heart (2).csv
-2026-02-11 16:30:03.036150 |  INFO  : files found -> heart (3).csv
-2026-02-11 16:30:03.036842 |  INFO  : files found -> heart+disease.zip
-2026-02-11 16:30:03.037469 |  INFO  : files found -> heart_2022_no_nans - heart_2022_no_nans.csv
-2026-02-11 16:30:03.038098 |  INFO  : files found -> heart_disease.csv
-2026-02-11 16:30:03.038555 |  INFO  : files found -> heart_disease_cleaned.csv
-2026-02-11 16:30:03.038993 |  INFO  : files found -> heart_disease_cleaned_unique.csv
-2026-02-11 16:30:03.039450 |  INFO  : files found -> Heart_Disease_Dataset.csv
-2026-02-11 16:30:03.039863 |  INFO  : files found -> heart_disease_million_rows.csv
-2026-02-11 16:30:03.040265 |  INFO  : files found -> heart_disease_model_ready.csv
-2026-02-11 16:30:03.040659 |  INFO  : files found -> heart_Disease_Testing_Dataset.csv
-2026-02-11 16:30:03.041278 |  INFO  : files found -> heart_disease_titan_ready.csv
-2026-02-11 16:30:03.041821 |  INFO  : files found -> Heart_Disease_Training_Dataset.csv
-2026-02-11 16:30:03.042288 |  INFO  : files found -> heart_disease_uci.csv
-2026-02-11 16:30:03.042876 |  INFO  : files found -> icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx
-2026-02-11 16:30:03.043453 |  INFO  : files found -> literature review (1).docx
-2026-02-11 16:30:03.044037 |  INFO  : files found -> literature review.docx
-2026-02-11 16:30:03.044602 |  INFO  : files found -> Marksheet First Year.jpg
-2026-02-11 16:30:03.045316 |  INFO  : files found -> Marksheet First Year.png
-2026-02-11 16:30:03.046066 |  INFO  : files found -> MarksheetSecond year.jpeg
-2026-02-11 16:30:03.047036 |  INFO  : files found -> Methodology.docx
-2026-02-11 16:30:03.047914 |  INFO  : files found -> node-v24.13.0-x64.msi
-2026-02-11 16:30:03.048967 |  INFO  : files found -> processed_cleveland.csv
-2026-02-11 16:30:03.049753 |  INFO  : files found -> Result & Discussion.docx
-2026-02-11 16:30:03.050438 |  INFO  : files found -> SETFILE (1).png
-2026-02-11 16:30:03.051068 |  INFO  : files found -> SETFILE.png
-2026-02-11 16:30:03.051644 |  INFO  : files found -> statlog+heart.zip
-2026-02-11 16:30:03.052368 |  INFO  : files found -> Subscriptions-Data-20260111150240.csv
-2026-02-11 16:30:03.053086 |  INFO  : files found -> Titan model.pdf
-2026-02-11 16:30:04.332284 |  INFO  : Making the Prediction
-2026-02-11 16:30:04.503680 |  INFO  : 10th mark sheet.pdf -> invoice
-2026-02-11 16:30:04.504437 |  INFO  : 10th.jpg -> images
-2026-02-11 16:30:04.634379 |  INFO  : 211696_Limits_Paper.pdf -> research
-2026-02-11 16:30:04.764678 |  INFO  : 211696_Limits_Sol.pdf -> research
-2026-02-11 16:30:04.850251 |  INFO  : 2501.00663v1.pdf -> book
-2026-02-11 16:30:04.850934 |  INFO  : C:\users\Vivek\Downloads\Cardiovascular_Disease_Dataset.csv : Unsupported Binary File
-2026-02-11 16:30:04.851365 |  INFO  : Cardiovascular_Disease_Dataset.csv -> others
-2026-02-11 16:30:04.851911 |  INFO  : ChatGPT Image Dec 30, 2025, 03_14_50 PM.png -> images
-2026-02-11 16:30:04.852508 |  INFO  : C:\users\Vivek\Downloads\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json : Unsupported Binary File
-2026-02-11 16:30:04.852943 |  INFO  : client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json -> others
-2026-02-11 16:30:04.853397 |  INFO  : C:\users\Vivek\Downloads\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json : Unsupported Binary File
-2026-02-11 16:30:04.853850 |  INFO  : client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json -> others
-2026-02-11 16:30:04.854365 |  INFO  : C:\users\Vivek\Downloads\Conference-template-A4.doc : Unsupported Binary File
-2026-02-11 16:30:04.854807 |  INFO  : Conference-template-A4.doc -> others
-2026-02-11 16:30:04.855282 |  INFO  : C:\users\Vivek\Downloads\dataset.csv : Unsupported Binary File
-2026-02-11 16:30:04.855637 |  INFO  : dataset.csv -> others
-2026-02-11 16:30:05.060932 |  INFO  : download.pdf -> research
-2026-02-11 16:30:05.134554 |  INFO  : Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf -> book
-2026-02-11 16:30:05.190342 |  INFO  : EKSHETRA S2 NEW.pdf -> research
-2026-02-11 16:30:05.191014 |  INFO  : C:\users\Vivek\Downloads\gmail_auth.json : Unsupported Binary File
-2026-02-11 16:30:05.191446 |  INFO  : gmail_auth.json -> others
-2026-02-11 16:30:05.192019 |  INFO  : Graduation.jpg -> images
-2026-02-11 16:30:05.192693 |  INFO  : C:\users\Vivek\Downloads\heart (1).csv : Unsupported Binary File
-2026-02-11 16:30:05.193265 |  INFO  : heart (1).csv -> others
-2026-02-11 16:30:05.193812 |  INFO  : C:\users\Vivek\Downloads\heart (2).csv : Unsupported Binary File
-2026-02-11 16:30:05.194310 |  INFO  : heart (2).csv -> others
-2026-02-11 16:30:05.195024 |  INFO  : C:\users\Vivek\Downloads\heart (3).csv : Unsupported Binary File
-2026-02-11 16:30:05.195432 |  INFO  : heart (3).csv -> others
-2026-02-11 16:30:05.196041 |  INFO  : heart+disease.zip -> archives
-2026-02-11 16:30:05.196749 |  INFO  : C:\users\Vivek\Downloads\heart_2022_no_nans - heart_2022_no_nans.csv : Unsupported Binary File
-2026-02-11 16:30:05.197272 |  INFO  : heart_2022_no_nans - heart_2022_no_nans.csv -> others
-2026-02-11 16:30:05.197898 |  INFO  : C:\users\Vivek\Downloads\heart_disease.csv : Unsupported Binary File
-2026-02-11 16:30:05.198470 |  INFO  : heart_disease.csv -> others
-2026-02-11 16:30:05.199081 |  INFO  : C:\users\Vivek\Downloads\heart_disease_cleaned.csv : Unsupported Binary File
-2026-02-11 16:30:05.199632 |  INFO  : heart_disease_cleaned.csv -> others
-2026-02-11 16:30:05.200191 |  INFO  : C:\users\Vivek\Downloads\heart_disease_cleaned_unique.csv : Unsupported Binary File
-2026-02-11 16:30:05.200690 |  INFO  : heart_disease_cleaned_unique.csv -> others
-2026-02-11 16:30:05.202029 |  INFO  : C:\users\Vivek\Downloads\Heart_Disease_Dataset.csv : Unsupported Binary File
-2026-02-11 16:30:05.203488 |  INFO  : Heart_Disease_Dataset.csv -> others
-2026-02-11 16:30:05.204190 |  INFO  : C:\users\Vivek\Downloads\heart_disease_million_rows.csv : Unsupported Binary File
-2026-02-11 16:30:05.204878 |  INFO  : heart_disease_million_rows.csv -> others
-2026-02-11 16:30:05.205492 |  INFO  : C:\users\Vivek\Downloads\heart_disease_model_ready.csv : Unsupported Binary File
-2026-02-11 16:30:05.206005 |  INFO  : heart_disease_model_ready.csv -> others
-2026-02-11 16:30:05.206546 |  INFO  : C:\users\Vivek\Downloads\heart_Disease_Testing_Dataset.csv : Unsupported Binary File
-2026-02-11 16:30:05.206924 |  INFO  : heart_Disease_Testing_Dataset.csv -> others
-2026-02-11 16:30:05.207511 |  INFO  : C:\users\Vivek\Downloads\heart_disease_titan_ready.csv : Unsupported Binary File
-2026-02-11 16:30:05.207956 |  INFO  : heart_disease_titan_ready.csv -> others
-2026-02-11 16:30:05.208435 |  INFO  : C:\users\Vivek\Downloads\Heart_Disease_Training_Dataset.csv : Unsupported Binary File
-2026-02-11 16:30:05.208896 |  INFO  : Heart_Disease_Training_Dataset.csv -> others
-2026-02-11 16:30:05.209596 |  INFO  : C:\users\Vivek\Downloads\heart_disease_uci.csv : Unsupported Binary File
-2026-02-11 16:30:05.210098 |  INFO  : heart_disease_uci.csv -> others
-2026-02-11 16:30:05.263436 |  INFO  : icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx -> invoice
-2026-02-11 16:30:05.307823 |  INFO  : literature review (1).docx -> research
-2026-02-11 16:30:05.354562 |  INFO  : literature review.docx -> research
-2026-02-11 16:30:05.355219 |  INFO  : Marksheet First Year.jpg -> images
-2026-02-11 16:30:05.355783 |  INFO  : Marksheet First Year.png -> images
-2026-02-11 16:30:05.356257 |  INFO  : MarksheetSecond year.jpeg -> images
-2026-02-11 16:30:05.417727 |  INFO  : Methodology.docx -> blog
-2026-02-11 16:30:05.418407 |  INFO  : node-v24.13.0-x64.msi -> installers
-2026-02-11 16:30:05.418873 |  INFO  : C:\users\Vivek\Downloads\processed_cleveland.csv : Unsupported Binary File
-2026-02-11 16:30:05.419206 |  INFO  : processed_cleveland.csv -> others
-2026-02-11 16:30:05.464024 |  INFO  : Result & Discussion.docx -> research
-2026-02-11 16:30:05.465074 |  INFO  : SETFILE (1).png -> images
-2026-02-11 16:30:05.465876 |  INFO  : SETFILE.png -> images
-2026-02-11 16:30:05.466434 |  INFO  : statlog+heart.zip -> archives
-2026-02-11 16:30:05.466929 |  INFO  : C:\users\Vivek\Downloads\Subscriptions-Data-20260111150240.csv : Unsupported Binary File
-2026-02-11 16:30:05.467313 |  INFO  : Subscriptions-Data-20260111150240.csv -> others
-2026-02-11 16:30:05.546679 |  INFO  : Titan model.pdf -> book
-2026-02-11 16:30:05.547328 |  INFO  : Organizing the file
-2026-02-11 16:30:06.828287 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\invoice
-2026-02-11 16:30:06.829896 |  INFO  : Moved files : C:\users\Vivek\Downloads\10th mark sheet.pdf -> C:\users\Vivek\Downloads\invoice\10th mark sheet.pdf
-2026-02-11 16:30:06.830986 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\images
-2026-02-11 16:30:06.832198 |  INFO  : Moved files : C:\users\Vivek\Downloads\10th.jpg -> C:\users\Vivek\Downloads\images\10th.jpg
-2026-02-11 16:30:06.832958 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\research
-2026-02-11 16:30:06.833998 |  INFO  : Moved files : C:\users\Vivek\Downloads\211696_Limits_Paper.pdf -> C:\users\Vivek\Downloads\research\211696_Limits_Paper.pdf
-2026-02-11 16:30:06.835178 |  INFO  : Moved files : C:\users\Vivek\Downloads\211696_Limits_Sol.pdf -> C:\users\Vivek\Downloads\research\211696_Limits_Sol.pdf
-2026-02-11 16:30:06.835904 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\book
-2026-02-11 16:30:06.836970 |  INFO  : Moved files : C:\users\Vivek\Downloads\2501.00663v1.pdf -> C:\users\Vivek\Downloads\book\2501.00663v1.pdf
-2026-02-11 16:30:06.837958 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\others
-2026-02-11 16:30:06.839123 |  INFO  : Moved files : C:\users\Vivek\Downloads\Cardiovascular_Disease_Dataset.csv -> C:\users\Vivek\Downloads\others\Cardiovascular_Disease_Dataset.csv
-2026-02-11 16:30:06.840503 |  INFO  : Moved files : C:\users\Vivek\Downloads\ChatGPT Image Dec 30, 2025, 03_14_50 PM.png -> C:\users\Vivek\Downloads\images\ChatGPT Image Dec 30, 2025, 03_14_50 PM.png
-2026-02-11 16:30:06.841840 |  INFO  : Moved files : C:\users\Vivek\Downloads\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json -> C:\users\Vivek\Downloads\others\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json
-2026-02-11 16:30:06.843511 |  INFO  : Moved files : C:\users\Vivek\Downloads\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json -> C:\users\Vivek\Downloads\others\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json
-2026-02-11 16:30:06.844830 |  INFO  : Moved files : C:\users\Vivek\Downloads\Conference-template-A4.doc -> C:\users\Vivek\Downloads\others\Conference-template-A4.doc
-2026-02-11 16:30:06.847070 |  INFO  : Moved files : C:\users\Vivek\Downloads\dataset.csv -> C:\users\Vivek\Downloads\others\dataset.csv
-2026-02-11 16:30:06.848895 |  INFO  : Moved files : C:\users\Vivek\Downloads\download.pdf -> C:\users\Vivek\Downloads\research\download.pdf
-2026-02-11 16:30:06.850395 |  INFO  : Moved files : C:\users\Vivek\Downloads\Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf -> C:\users\Vivek\Downloads\book\Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf
-2026-02-11 16:30:06.851749 |  INFO  : Moved files : C:\users\Vivek\Downloads\EKSHETRA S2 NEW.pdf -> C:\users\Vivek\Downloads\research\EKSHETRA S2 NEW.pdf
-2026-02-11 16:30:06.852890 |  INFO  : Moved files : C:\users\Vivek\Downloads\gmail_auth.json -> C:\users\Vivek\Downloads\others\gmail_auth.json
-2026-02-11 16:30:06.854053 |  INFO  : Moved files : C:\users\Vivek\Downloads\Graduation.jpg -> C:\users\Vivek\Downloads\images\Graduation.jpg
-2026-02-11 16:30:06.855199 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart (1).csv -> C:\users\Vivek\Downloads\others\heart (1).csv
-2026-02-11 16:30:06.856424 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart (2).csv -> C:\users\Vivek\Downloads\others\heart (2).csv
-2026-02-11 16:30:06.857640 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart (3).csv -> C:\users\Vivek\Downloads\others\heart (3).csv
-2026-02-11 16:30:06.858327 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\archives
-2026-02-11 16:30:06.859381 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart+disease.zip -> C:\users\Vivek\Downloads\archives\heart+disease.zip
-2026-02-11 16:30:06.860512 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_2022_no_nans - heart_2022_no_nans.csv -> C:\users\Vivek\Downloads\others\heart_2022_no_nans - heart_2022_no_nans.csv
-2026-02-11 16:30:06.861768 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease.csv -> C:\users\Vivek\Downloads\others\heart_disease.csv
-2026-02-11 16:30:06.864519 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease_cleaned.csv -> C:\users\Vivek\Downloads\others\heart_disease_cleaned.csv
-2026-02-11 16:30:06.865809 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease_cleaned_unique.csv -> C:\users\Vivek\Downloads\others\heart_disease_cleaned_unique.csv
-2026-02-11 16:30:06.866973 |  INFO  : Moved files : C:\users\Vivek\Downloads\Heart_Disease_Dataset.csv -> C:\users\Vivek\Downloads\others\Heart_Disease_Dataset.csv
-2026-02-11 16:30:06.868100 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease_million_rows.csv -> C:\users\Vivek\Downloads\others\heart_disease_million_rows.csv
-2026-02-11 16:30:06.869445 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease_model_ready.csv -> C:\users\Vivek\Downloads\others\heart_disease_model_ready.csv
-2026-02-11 16:30:06.870627 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_Disease_Testing_Dataset.csv -> C:\users\Vivek\Downloads\others\heart_Disease_Testing_Dataset.csv
-2026-02-11 16:30:06.871791 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease_titan_ready.csv -> C:\users\Vivek\Downloads\others\heart_disease_titan_ready.csv
-2026-02-11 16:30:06.872956 |  INFO  : Moved files : C:\users\Vivek\Downloads\Heart_Disease_Training_Dataset.csv -> C:\users\Vivek\Downloads\others\Heart_Disease_Training_Dataset.csv
-2026-02-11 16:30:06.874111 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease_uci.csv -> C:\users\Vivek\Downloads\others\heart_disease_uci.csv
-2026-02-11 16:30:06.875324 |  INFO  : Moved files : C:\users\Vivek\Downloads\icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx -> C:\users\Vivek\Downloads\invoice\icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx
-2026-02-11 16:30:06.876532 |  INFO  : Moved files : C:\users\Vivek\Downloads\literature review (1).docx -> C:\users\Vivek\Downloads\research\literature review (1).docx
-2026-02-11 16:30:06.877736 |  INFO  : Moved files : C:\users\Vivek\Downloads\literature review.docx -> C:\users\Vivek\Downloads\research\literature review.docx
-2026-02-11 16:30:06.879807 |  INFO  : Moved files : C:\users\Vivek\Downloads\Marksheet First Year.jpg -> C:\users\Vivek\Downloads\images\Marksheet First Year.jpg
-2026-02-11 16:30:06.881312 |  INFO  : Moved files : C:\users\Vivek\Downloads\Marksheet First Year.png -> C:\users\Vivek\Downloads\images\Marksheet First Year.png
-2026-02-11 16:30:06.882537 |  INFO  : Moved files : C:\users\Vivek\Downloads\MarksheetSecond year.jpeg -> C:\users\Vivek\Downloads\images\MarksheetSecond year.jpeg
-2026-02-11 16:30:06.883291 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\blog
-2026-02-11 16:30:06.884457 |  INFO  : Moved files : C:\users\Vivek\Downloads\Methodology.docx -> C:\users\Vivek\Downloads\blog\Methodology.docx
-2026-02-11 16:30:06.885034 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\installers
-2026-02-11 16:30:06.885876 |  INFO  : Moved files : C:\users\Vivek\Downloads\node-v24.13.0-x64.msi -> C:\users\Vivek\Downloads\installers\node-v24.13.0-x64.msi
-2026-02-11 16:30:06.886804 |  INFO  : Moved files : C:\users\Vivek\Downloads\processed_cleveland.csv -> C:\users\Vivek\Downloads\others\processed_cleveland.csv
-2026-02-11 16:30:06.887752 |  INFO  : Moved files : C:\users\Vivek\Downloads\Result & Discussion.docx -> C:\users\Vivek\Downloads\research\Result & Discussion.docx
-2026-02-11 16:30:06.888685 |  INFO  : Moved files : C:\users\Vivek\Downloads\SETFILE (1).png -> C:\users\Vivek\Downloads\images\SETFILE (1).png
-2026-02-11 16:30:06.889674 |  INFO  : Moved files : C:\users\Vivek\Downloads\SETFILE.png -> C:\users\Vivek\Downloads\images\SETFILE.png
-2026-02-11 16:30:06.890843 |  INFO  : Moved files : C:\users\Vivek\Downloads\statlog+heart.zip -> C:\users\Vivek\Downloads\archives\statlog+heart.zip
-2026-02-11 16:30:06.892019 |  INFO  : Moved files : C:\users\Vivek\Downloads\Subscriptions-Data-20260111150240.csv -> C:\users\Vivek\Downloads\others\Subscriptions-Data-20260111150240.csv
-2026-02-11 16:30:06.893121 |  INFO  : Moved files : C:\users\Vivek\Downloads\Titan model.pdf -> C:\users\Vivek\Downloads\book\Titan model.pdf
-2026-02-11 16:30:50.880342 |  INFO  : Reverting the changes
-2026-02-11 16:30:50.881505 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\book\Titan model.pdf -> C:\users\Vivek\Downloads\Titan model.pdf
-2026-02-11 16:30:50.881866 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\book\Titan model.pdf -> C:\users\Vivek\Downloads\Titan model.pdf
-2026-02-11 16:30:50.883751 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\Subscriptions-Data-20260111150240.csv -> C:\users\Vivek\Downloads\Subscriptions-Data-20260111150240.csv
-2026-02-11 16:30:50.884050 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\Subscriptions-Data-20260111150240.csv -> C:\users\Vivek\Downloads\Subscriptions-Data-20260111150240.csv
-2026-02-11 16:30:50.885055 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\archives\statlog+heart.zip -> C:\users\Vivek\Downloads\statlog+heart.zip
-2026-02-11 16:30:50.885376 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\archives\statlog+heart.zip -> C:\users\Vivek\Downloads\statlog+heart.zip
-2026-02-11 16:30:50.886637 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\SETFILE.png -> C:\users\Vivek\Downloads\SETFILE.png
-2026-02-11 16:30:50.886961 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\images\SETFILE.png -> C:\users\Vivek\Downloads\SETFILE.png
-2026-02-11 16:30:50.888444 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\SETFILE (1).png -> C:\users\Vivek\Downloads\SETFILE (1).png
-2026-02-11 16:30:50.888907 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\images\SETFILE (1).png -> C:\users\Vivek\Downloads\SETFILE (1).png
-2026-02-11 16:30:50.890662 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\Result & Discussion.docx -> C:\users\Vivek\Downloads\Result & Discussion.docx
-2026-02-11 16:30:50.891111 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\research\Result & Discussion.docx -> C:\users\Vivek\Downloads\Result & Discussion.docx
-2026-02-11 16:30:50.892786 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\processed_cleveland.csv -> C:\users\Vivek\Downloads\processed_cleveland.csv
-2026-02-11 16:30:50.893349 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\processed_cleveland.csv -> C:\users\Vivek\Downloads\processed_cleveland.csv
-2026-02-11 16:30:50.895627 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\installers\node-v24.13.0-x64.msi -> C:\users\Vivek\Downloads\node-v24.13.0-x64.msi
-2026-02-11 16:30:50.896864 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\installers\node-v24.13.0-x64.msi -> C:\users\Vivek\Downloads\node-v24.13.0-x64.msi
-2026-02-11 16:30:50.898070 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\installers
-2026-02-11 16:30:50.898891 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\blog\Methodology.docx -> C:\users\Vivek\Downloads\Methodology.docx
-2026-02-11 16:30:50.899198 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\blog\Methodology.docx -> C:\users\Vivek\Downloads\Methodology.docx
-2026-02-11 16:30:50.900050 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\blog
-2026-02-11 16:30:50.900856 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\MarksheetSecond year.jpeg -> C:\users\Vivek\Downloads\MarksheetSecond year.jpeg
-2026-02-11 16:30:50.901180 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\images\MarksheetSecond year.jpeg -> C:\users\Vivek\Downloads\MarksheetSecond year.jpeg
-2026-02-11 16:30:50.902447 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\Marksheet First Year.png -> C:\users\Vivek\Downloads\Marksheet First Year.png
-2026-02-11 16:30:50.902767 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\images\Marksheet First Year.png -> C:\users\Vivek\Downloads\Marksheet First Year.png
-2026-02-11 16:30:50.904125 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\Marksheet First Year.jpg -> C:\users\Vivek\Downloads\Marksheet First Year.jpg
-2026-02-11 16:30:50.904487 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\images\Marksheet First Year.jpg -> C:\users\Vivek\Downloads\Marksheet First Year.jpg
-2026-02-11 16:30:50.905639 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\literature review.docx -> C:\users\Vivek\Downloads\literature review.docx
-2026-02-11 16:30:50.905929 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\research\literature review.docx -> C:\users\Vivek\Downloads\literature review.docx
-2026-02-11 16:30:50.906916 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\literature review (1).docx -> C:\users\Vivek\Downloads\literature review (1).docx
-2026-02-11 16:30:50.907196 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\research\literature review (1).docx -> C:\users\Vivek\Downloads\literature review (1).docx
-2026-02-11 16:30:50.908436 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\invoice\icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx -> C:\users\Vivek\Downloads\icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx
-2026-02-11 16:30:50.908722 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\invoice\icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx -> C:\users\Vivek\Downloads\icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx
-2026-02-11 16:30:50.909719 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease_uci.csv -> C:\users\Vivek\Downloads\heart_disease_uci.csv
-2026-02-11 16:30:50.910036 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\heart_disease_uci.csv -> C:\users\Vivek\Downloads\heart_disease_uci.csv
-2026-02-11 16:30:50.911512 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\Heart_Disease_Training_Dataset.csv -> C:\users\Vivek\Downloads\Heart_Disease_Training_Dataset.csv
-2026-02-11 16:30:50.912029 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\Heart_Disease_Training_Dataset.csv -> C:\users\Vivek\Downloads\Heart_Disease_Training_Dataset.csv
-2026-02-11 16:30:50.913764 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease_titan_ready.csv -> C:\users\Vivek\Downloads\heart_disease_titan_ready.csv
-2026-02-11 16:30:50.914127 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\heart_disease_titan_ready.csv -> C:\users\Vivek\Downloads\heart_disease_titan_ready.csv
-2026-02-11 16:30:50.915470 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_Disease_Testing_Dataset.csv -> C:\users\Vivek\Downloads\heart_Disease_Testing_Dataset.csv
-2026-02-11 16:30:50.915793 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\heart_Disease_Testing_Dataset.csv -> C:\users\Vivek\Downloads\heart_Disease_Testing_Dataset.csv
-2026-02-11 16:30:50.917077 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease_model_ready.csv -> C:\users\Vivek\Downloads\heart_disease_model_ready.csv
-2026-02-11 16:30:50.917435 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\heart_disease_model_ready.csv -> C:\users\Vivek\Downloads\heart_disease_model_ready.csv
-2026-02-11 16:30:50.919801 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease_million_rows.csv -> C:\users\Vivek\Downloads\heart_disease_million_rows.csv
-2026-02-11 16:30:50.920171 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\heart_disease_million_rows.csv -> C:\users\Vivek\Downloads\heart_disease_million_rows.csv
-2026-02-11 16:30:50.921216 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\Heart_Disease_Dataset.csv -> C:\users\Vivek\Downloads\Heart_Disease_Dataset.csv
-2026-02-11 16:30:50.921497 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\Heart_Disease_Dataset.csv -> C:\users\Vivek\Downloads\Heart_Disease_Dataset.csv
-2026-02-11 16:30:50.922489 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease_cleaned_unique.csv -> C:\users\Vivek\Downloads\heart_disease_cleaned_unique.csv
-2026-02-11 16:30:50.922763 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\heart_disease_cleaned_unique.csv -> C:\users\Vivek\Downloads\heart_disease_cleaned_unique.csv
-2026-02-11 16:30:50.923792 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease_cleaned.csv -> C:\users\Vivek\Downloads\heart_disease_cleaned.csv
-2026-02-11 16:30:50.924103 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\heart_disease_cleaned.csv -> C:\users\Vivek\Downloads\heart_disease_cleaned.csv
-2026-02-11 16:30:50.925065 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease.csv -> C:\users\Vivek\Downloads\heart_disease.csv
-2026-02-11 16:30:50.925387 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\heart_disease.csv -> C:\users\Vivek\Downloads\heart_disease.csv
-2026-02-11 16:30:50.926520 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_2022_no_nans - heart_2022_no_nans.csv -> C:\users\Vivek\Downloads\heart_2022_no_nans - heart_2022_no_nans.csv
-2026-02-11 16:30:50.926984 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\heart_2022_no_nans - heart_2022_no_nans.csv -> C:\users\Vivek\Downloads\heart_2022_no_nans - heart_2022_no_nans.csv
-2026-02-11 16:30:50.928276 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\archives\heart+disease.zip -> C:\users\Vivek\Downloads\heart+disease.zip
-2026-02-11 16:30:50.928626 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\archives\heart+disease.zip -> C:\users\Vivek\Downloads\heart+disease.zip
-2026-02-11 16:30:50.929506 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\archives
-2026-02-11 16:30:50.930353 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart (3).csv -> C:\users\Vivek\Downloads\heart (3).csv
-2026-02-11 16:30:50.930684 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\heart (3).csv -> C:\users\Vivek\Downloads\heart (3).csv
-2026-02-11 16:30:50.931740 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart (2).csv -> C:\users\Vivek\Downloads\heart (2).csv
-2026-02-11 16:30:50.932031 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\heart (2).csv -> C:\users\Vivek\Downloads\heart (2).csv
-2026-02-11 16:30:50.933194 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart (1).csv -> C:\users\Vivek\Downloads\heart (1).csv
-2026-02-11 16:30:50.933518 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\heart (1).csv -> C:\users\Vivek\Downloads\heart (1).csv
-2026-02-11 16:30:50.934625 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\Graduation.jpg -> C:\users\Vivek\Downloads\Graduation.jpg
-2026-02-11 16:30:50.934927 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\images\Graduation.jpg -> C:\users\Vivek\Downloads\Graduation.jpg
-2026-02-11 16:30:50.936049 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\gmail_auth.json -> C:\users\Vivek\Downloads\gmail_auth.json
-2026-02-11 16:30:50.936345 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\gmail_auth.json -> C:\users\Vivek\Downloads\gmail_auth.json
-2026-02-11 16:30:50.937436 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\EKSHETRA S2 NEW.pdf -> C:\users\Vivek\Downloads\EKSHETRA S2 NEW.pdf
-2026-02-11 16:30:50.937726 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\research\EKSHETRA S2 NEW.pdf -> C:\users\Vivek\Downloads\EKSHETRA S2 NEW.pdf
-2026-02-11 16:30:50.938848 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\book\Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf -> C:\users\Vivek\Downloads\Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf
-2026-02-11 16:30:50.939154 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\book\Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf -> C:\users\Vivek\Downloads\Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf
-2026-02-11 16:30:50.940339 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\download.pdf -> C:\users\Vivek\Downloads\download.pdf
-2026-02-11 16:30:50.940656 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\research\download.pdf -> C:\users\Vivek\Downloads\download.pdf
-2026-02-11 16:30:50.941756 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\dataset.csv -> C:\users\Vivek\Downloads\dataset.csv
-2026-02-11 16:30:50.942099 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\dataset.csv -> C:\users\Vivek\Downloads\dataset.csv
-2026-02-11 16:30:50.943273 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\Conference-template-A4.doc -> C:\users\Vivek\Downloads\Conference-template-A4.doc
-2026-02-11 16:30:50.943627 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\Conference-template-A4.doc -> C:\users\Vivek\Downloads\Conference-template-A4.doc
-2026-02-11 16:30:50.944931 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json -> C:\users\Vivek\Downloads\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json
-2026-02-11 16:30:50.945315 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json -> C:\users\Vivek\Downloads\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json
-2026-02-11 16:30:50.946556 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json -> C:\users\Vivek\Downloads\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json
-2026-02-11 16:30:50.946873 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json -> C:\users\Vivek\Downloads\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json
-2026-02-11 16:30:50.948097 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\ChatGPT Image Dec 30, 2025, 03_14_50 PM.png -> C:\users\Vivek\Downloads\ChatGPT Image Dec 30, 2025, 03_14_50 PM.png
-2026-02-11 16:30:50.948412 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\images\ChatGPT Image Dec 30, 2025, 03_14_50 PM.png -> C:\users\Vivek\Downloads\ChatGPT Image Dec 30, 2025, 03_14_50 PM.png
-2026-02-11 16:30:50.949646 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\Cardiovascular_Disease_Dataset.csv -> C:\users\Vivek\Downloads\Cardiovascular_Disease_Dataset.csv
-2026-02-11 16:30:50.949963 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\others\Cardiovascular_Disease_Dataset.csv -> C:\users\Vivek\Downloads\Cardiovascular_Disease_Dataset.csv
-2026-02-11 16:30:50.950937 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\others
-2026-02-11 16:30:50.951712 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\book\2501.00663v1.pdf -> C:\users\Vivek\Downloads\2501.00663v1.pdf
-2026-02-11 16:30:50.952076 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\book\2501.00663v1.pdf -> C:\users\Vivek\Downloads\2501.00663v1.pdf
-2026-02-11 16:30:50.953006 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\book
-2026-02-11 16:30:50.953842 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\211696_Limits_Sol.pdf -> C:\users\Vivek\Downloads\211696_Limits_Sol.pdf
-2026-02-11 16:30:50.954151 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\research\211696_Limits_Sol.pdf -> C:\users\Vivek\Downloads\211696_Limits_Sol.pdf
-2026-02-11 16:30:50.955299 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\211696_Limits_Paper.pdf -> C:\users\Vivek\Downloads\211696_Limits_Paper.pdf
-2026-02-11 16:30:50.955608 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\research\211696_Limits_Paper.pdf -> C:\users\Vivek\Downloads\211696_Limits_Paper.pdf
-2026-02-11 16:30:50.956329 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\research
-2026-02-11 16:30:50.957149 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\10th.jpg -> C:\users\Vivek\Downloads\10th.jpg
-2026-02-11 16:30:50.957453 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\images\10th.jpg -> C:\users\Vivek\Downloads\10th.jpg
-2026-02-11 16:30:50.958165 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\images
-2026-02-11 16:30:50.958903 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\invoice\10th mark sheet.pdf -> C:\users\Vivek\Downloads\10th mark sheet.pdf
-2026-02-11 16:30:50.959203 |  20260211_163006  |  REMOVED  | C:\users\Vivek\Downloads\invoice\10th mark sheet.pdf -> C:\users\Vivek\Downloads\10th mark sheet.pdf
-2026-02-11 16:30:50.959906 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\invoice
-2026-02-11 16:30:56.718775 |  INFO  : Reverting the changes
-2026-02-11 16:33:14.033016 |  INFO  : Checking the folder
-2026-02-11 16:33:14.034156 |  INFO  : files found -> 10th mark sheet.pdf
-2026-02-11 16:33:14.034720 |  INFO  : files found -> 10th.jpg
-2026-02-11 16:33:14.035135 |  WARNING  : Skipped files -> C:\users\Vivek\Downloads\1770372440269
-2026-02-11 16:33:14.035735 |  INFO  : files found -> 211696_Limits_Paper.pdf
-2026-02-11 16:33:14.036184 |  INFO  : files found -> 211696_Limits_Sol.pdf
-2026-02-11 16:33:14.036692 |  INFO  : files found -> 2501.00663v1.pdf
-2026-02-11 16:33:14.037195 |  INFO  : files found -> Cardiovascular_Disease_Dataset.csv
-2026-02-11 16:33:14.037692 |  INFO  : files found -> ChatGPT Image Dec 30, 2025, 03_14_50 PM.png
-2026-02-11 16:33:14.038112 |  INFO  : files found -> client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json
-2026-02-11 16:33:14.038533 |  INFO  : files found -> client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json
-2026-02-11 16:33:14.039004 |  INFO  : files found -> Conference-template-A4.doc
-2026-02-11 16:33:14.039635 |  INFO  : files found -> dataset.csv
-2026-02-11 16:33:14.040139 |  INFO  : files found -> download.pdf
-2026-02-11 16:33:14.040791 |  INFO  : files found -> Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf
-2026-02-11 16:33:14.041463 |  INFO  : files found -> EKSHETRA S2 NEW.pdf
-2026-02-11 16:33:14.041929 |  WARNING  : Skipped files -> C:\users\Vivek\Downloads\gmail-download
-2026-02-11 16:33:14.042447 |  INFO  : files found -> gmail_auth.json
-2026-02-11 16:33:14.043008 |  INFO  : files found -> Graduation.jpg
-2026-02-11 16:33:14.043539 |  INFO  : files found -> heart (1).csv
-2026-02-11 16:33:14.044096 |  INFO  : files found -> heart (2).csv
-2026-02-11 16:33:14.044845 |  INFO  : files found -> heart (3).csv
-2026-02-11 16:33:14.046057 |  INFO  : files found -> heart+disease.zip
-2026-02-11 16:33:14.047427 |  INFO  : files found -> heart_2022_no_nans - heart_2022_no_nans.csv
-2026-02-11 16:33:14.048912 |  INFO  : files found -> heart_disease.csv
-2026-02-11 16:33:14.050882 |  INFO  : files found -> heart_disease_cleaned.csv
-2026-02-11 16:33:14.052803 |  INFO  : files found -> heart_disease_cleaned_unique.csv
-2026-02-11 16:33:14.054400 |  INFO  : files found -> Heart_Disease_Dataset.csv
-2026-02-11 16:33:14.056638 |  INFO  : files found -> heart_disease_million_rows.csv
-2026-02-11 16:33:14.060574 |  INFO  : files found -> heart_disease_model_ready.csv
-2026-02-11 16:33:14.062579 |  INFO  : files found -> heart_Disease_Testing_Dataset.csv
-2026-02-11 16:33:14.063934 |  INFO  : files found -> heart_disease_titan_ready.csv
-2026-02-11 16:33:14.065083 |  INFO  : files found -> Heart_Disease_Training_Dataset.csv
-2026-02-11 16:33:14.067918 |  INFO  : files found -> heart_disease_uci.csv
-2026-02-11 16:33:14.082076 |  INFO  : files found -> icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx
-2026-02-11 16:33:14.095549 |  INFO  : files found -> literature review (1).docx
-2026-02-11 16:33:14.096208 |  INFO  : files found -> literature review.docx
-2026-02-11 16:33:14.096795 |  INFO  : files found -> Marksheet First Year.jpg
-2026-02-11 16:33:14.097236 |  INFO  : files found -> Marksheet First Year.png
-2026-02-11 16:33:14.097691 |  INFO  : files found -> MarksheetSecond year.jpeg
-2026-02-11 16:33:14.098382 |  INFO  : files found -> Methodology.docx
-2026-02-11 16:33:14.099540 |  INFO  : files found -> node-v24.13.0-x64.msi
-2026-02-11 16:33:14.100327 |  INFO  : files found -> processed_cleveland.csv
-2026-02-11 16:33:14.101069 |  INFO  : files found -> Result & Discussion.docx
-2026-02-11 16:33:14.101703 |  INFO  : files found -> SETFILE (1).png
-2026-02-11 16:33:14.102326 |  INFO  : files found -> SETFILE.png
-2026-02-11 16:33:14.102912 |  INFO  : files found -> statlog+heart.zip
-2026-02-11 16:33:14.103586 |  INFO  : files found -> Subscriptions-Data-20260111150240.csv
-2026-02-11 16:33:14.104212 |  INFO  : files found -> Titan model.pdf
-2026-02-11 16:33:15.308367 |  INFO  : Making the Prediction
-2026-02-11 16:33:15.491614 |  INFO  : 10th mark sheet.pdf -> invoice
-2026-02-11 16:33:15.492757 |  INFO  : 10th.jpg -> images
-2026-02-11 16:33:15.605638 |  INFO  : 211696_Limits_Paper.pdf -> research
-2026-02-11 16:33:15.696823 |  INFO  : 211696_Limits_Sol.pdf -> research
-2026-02-11 16:33:15.768116 |  INFO  : 2501.00663v1.pdf -> book
-2026-02-11 16:33:15.768902 |  INFO  : C:\users\Vivek\Downloads\Cardiovascular_Disease_Dataset.csv : Unsupported Binary File
-2026-02-11 16:33:15.769378 |  INFO  : Cardiovascular_Disease_Dataset.csv -> others
-2026-02-11 16:33:15.769949 |  INFO  : ChatGPT Image Dec 30, 2025, 03_14_50 PM.png -> images
-2026-02-11 16:33:15.770705 |  INFO  : C:\users\Vivek\Downloads\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json : Unsupported Binary File
-2026-02-11 16:33:15.771184 |  INFO  : client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json -> others
-2026-02-11 16:33:15.771759 |  INFO  : C:\users\Vivek\Downloads\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json : Unsupported Binary File
-2026-02-11 16:33:15.772082 |  INFO  : client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json -> others
-2026-02-11 16:33:15.772564 |  INFO  : C:\users\Vivek\Downloads\Conference-template-A4.doc : Unsupported Binary File
-2026-02-11 16:33:15.772994 |  INFO  : Conference-template-A4.doc -> others
-2026-02-11 16:33:15.773617 |  INFO  : C:\users\Vivek\Downloads\dataset.csv : Unsupported Binary File
-2026-02-11 16:33:15.774169 |  INFO  : dataset.csv -> others
-2026-02-11 16:33:15.941990 |  INFO  : download.pdf -> research
-2026-02-11 16:33:16.006459 |  INFO  : Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf -> book
-2026-02-11 16:33:16.061415 |  INFO  : EKSHETRA S2 NEW.pdf -> research
-2026-02-11 16:33:16.062100 |  INFO  : C:\users\Vivek\Downloads\gmail_auth.json : Unsupported Binary File
-2026-02-11 16:33:16.062615 |  INFO  : gmail_auth.json -> others
-2026-02-11 16:33:16.063314 |  INFO  : Graduation.jpg -> images
-2026-02-11 16:33:16.063961 |  INFO  : C:\users\Vivek\Downloads\heart (1).csv : Unsupported Binary File
-2026-02-11 16:33:16.064458 |  INFO  : heart (1).csv -> others
-2026-02-11 16:33:16.065193 |  INFO  : C:\users\Vivek\Downloads\heart (2).csv : Unsupported Binary File
-2026-02-11 16:33:16.065666 |  INFO  : heart (2).csv -> others
-2026-02-11 16:33:16.066208 |  INFO  : C:\users\Vivek\Downloads\heart (3).csv : Unsupported Binary File
-2026-02-11 16:33:16.066667 |  INFO  : heart (3).csv -> others
-2026-02-11 16:33:16.067115 |  INFO  : heart+disease.zip -> archives
-2026-02-11 16:33:16.067522 |  INFO  : C:\users\Vivek\Downloads\heart_2022_no_nans - heart_2022_no_nans.csv : Unsupported Binary File
-2026-02-11 16:33:16.067849 |  INFO  : heart_2022_no_nans - heart_2022_no_nans.csv -> others
-2026-02-11 16:33:16.068267 |  INFO  : C:\users\Vivek\Downloads\heart_disease.csv : Unsupported Binary File
-2026-02-11 16:33:16.068598 |  INFO  : heart_disease.csv -> others
-2026-02-11 16:33:16.068977 |  INFO  : C:\users\Vivek\Downloads\heart_disease_cleaned.csv : Unsupported Binary File
-2026-02-11 16:33:16.069252 |  INFO  : heart_disease_cleaned.csv -> others
-2026-02-11 16:33:16.069672 |  INFO  : C:\users\Vivek\Downloads\heart_disease_cleaned_unique.csv : Unsupported Binary File
-2026-02-11 16:33:16.069986 |  INFO  : heart_disease_cleaned_unique.csv -> others
-2026-02-11 16:33:16.070412 |  INFO  : C:\users\Vivek\Downloads\Heart_Disease_Dataset.csv : Unsupported Binary File
-2026-02-11 16:33:16.070711 |  INFO  : Heart_Disease_Dataset.csv -> others
-2026-02-11 16:33:16.071090 |  INFO  : C:\users\Vivek\Downloads\heart_disease_million_rows.csv : Unsupported Binary File
-2026-02-11 16:33:16.071395 |  INFO  : heart_disease_million_rows.csv -> others
-2026-02-11 16:33:16.071986 |  INFO  : C:\users\Vivek\Downloads\heart_disease_model_ready.csv : Unsupported Binary File
-2026-02-11 16:33:16.072450 |  INFO  : heart_disease_model_ready.csv -> others
-2026-02-11 16:33:16.072981 |  INFO  : C:\users\Vivek\Downloads\heart_Disease_Testing_Dataset.csv : Unsupported Binary File
-2026-02-11 16:33:16.073391 |  INFO  : heart_Disease_Testing_Dataset.csv -> others
-2026-02-11 16:33:16.073961 |  INFO  : C:\users\Vivek\Downloads\heart_disease_titan_ready.csv : Unsupported Binary File
-2026-02-11 16:33:16.074605 |  INFO  : heart_disease_titan_ready.csv -> others
-2026-02-11 16:33:16.075335 |  INFO  : C:\users\Vivek\Downloads\Heart_Disease_Training_Dataset.csv : Unsupported Binary File
-2026-02-11 16:33:16.075817 |  INFO  : Heart_Disease_Training_Dataset.csv -> others
-2026-02-11 16:33:16.076402 |  INFO  : C:\users\Vivek\Downloads\heart_disease_uci.csv : Unsupported Binary File
-2026-02-11 16:33:16.077147 |  INFO  : heart_disease_uci.csv -> others
-2026-02-11 16:33:16.130340 |  INFO  : icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx -> invoice
-2026-02-11 16:33:16.170186 |  INFO  : literature review (1).docx -> research
-2026-02-11 16:33:16.215266 |  INFO  : literature review.docx -> research
-2026-02-11 16:33:16.216092 |  INFO  : Marksheet First Year.jpg -> images
-2026-02-11 16:33:16.216673 |  INFO  : Marksheet First Year.png -> images
-2026-02-11 16:33:16.217112 |  INFO  : MarksheetSecond year.jpeg -> images
-2026-02-11 16:33:16.276077 |  INFO  : Methodology.docx -> blog
-2026-02-11 16:33:16.277170 |  INFO  : node-v24.13.0-x64.msi -> installers
-2026-02-11 16:33:16.278036 |  INFO  : C:\users\Vivek\Downloads\processed_cleveland.csv : Unsupported Binary File
-2026-02-11 16:33:16.278606 |  INFO  : processed_cleveland.csv -> others
-2026-02-11 16:33:16.320335 |  INFO  : Result & Discussion.docx -> research
-2026-02-11 16:33:16.320958 |  INFO  : SETFILE (1).png -> images
-2026-02-11 16:33:16.321430 |  INFO  : SETFILE.png -> images
-2026-02-11 16:33:16.321860 |  INFO  : statlog+heart.zip -> archives
-2026-02-11 16:33:16.322308 |  INFO  : C:\users\Vivek\Downloads\Subscriptions-Data-20260111150240.csv : Unsupported Binary File
-2026-02-11 16:33:16.322646 |  INFO  : Subscriptions-Data-20260111150240.csv -> others
-2026-02-11 16:33:16.398718 |  INFO  : Titan model.pdf -> book
-2026-02-11 16:33:16.399426 |  INFO  : Organizing the file
-2026-02-11 16:33:17.329885 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\invoice
-2026-02-11 16:33:17.331320 |  INFO  : Moved files : C:\users\Vivek\Downloads\10th mark sheet.pdf -> C:\users\Vivek\Downloads\invoice\10th mark sheet.pdf
-2026-02-11 16:33:17.332258 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\images
-2026-02-11 16:33:17.333436 |  INFO  : Moved files : C:\users\Vivek\Downloads\10th.jpg -> C:\users\Vivek\Downloads\images\10th.jpg
-2026-02-11 16:33:17.334239 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\research
-2026-02-11 16:33:17.335426 |  INFO  : Moved files : C:\users\Vivek\Downloads\211696_Limits_Paper.pdf -> C:\users\Vivek\Downloads\research\211696_Limits_Paper.pdf
-2026-02-11 16:33:17.337167 |  INFO  : Moved files : C:\users\Vivek\Downloads\211696_Limits_Sol.pdf -> C:\users\Vivek\Downloads\research\211696_Limits_Sol.pdf
-2026-02-11 16:33:17.338179 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\book
-2026-02-11 16:33:17.339534 |  INFO  : Moved files : C:\users\Vivek\Downloads\2501.00663v1.pdf -> C:\users\Vivek\Downloads\book\2501.00663v1.pdf
-2026-02-11 16:33:17.340618 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\others
-2026-02-11 16:33:17.342039 |  INFO  : Moved files : C:\users\Vivek\Downloads\Cardiovascular_Disease_Dataset.csv -> C:\users\Vivek\Downloads\others\Cardiovascular_Disease_Dataset.csv
-2026-02-11 16:33:17.344749 |  INFO  : Moved files : C:\users\Vivek\Downloads\ChatGPT Image Dec 30, 2025, 03_14_50 PM.png -> C:\users\Vivek\Downloads\images\ChatGPT Image Dec 30, 2025, 03_14_50 PM.png
-2026-02-11 16:33:17.346343 |  INFO  : Moved files : C:\users\Vivek\Downloads\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json -> C:\users\Vivek\Downloads\others\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json
-2026-02-11 16:33:17.347993 |  INFO  : Moved files : C:\users\Vivek\Downloads\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json -> C:\users\Vivek\Downloads\others\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json
-2026-02-11 16:33:17.349323 |  INFO  : Moved files : C:\users\Vivek\Downloads\Conference-template-A4.doc -> C:\users\Vivek\Downloads\others\Conference-template-A4.doc
-2026-02-11 16:33:17.350566 |  INFO  : Moved files : C:\users\Vivek\Downloads\dataset.csv -> C:\users\Vivek\Downloads\others\dataset.csv
-2026-02-11 16:33:17.351983 |  INFO  : Moved files : C:\users\Vivek\Downloads\download.pdf -> C:\users\Vivek\Downloads\research\download.pdf
-2026-02-11 16:33:17.353574 |  INFO  : Moved files : C:\users\Vivek\Downloads\Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf -> C:\users\Vivek\Downloads\book\Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf
-2026-02-11 16:33:17.355091 |  INFO  : Moved files : C:\users\Vivek\Downloads\EKSHETRA S2 NEW.pdf -> C:\users\Vivek\Downloads\research\EKSHETRA S2 NEW.pdf
-2026-02-11 16:33:17.356370 |  INFO  : Moved files : C:\users\Vivek\Downloads\gmail_auth.json -> C:\users\Vivek\Downloads\others\gmail_auth.json
-2026-02-11 16:33:17.357787 |  INFO  : Moved files : C:\users\Vivek\Downloads\Graduation.jpg -> C:\users\Vivek\Downloads\images\Graduation.jpg
-2026-02-11 16:33:17.359404 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart (1).csv -> C:\users\Vivek\Downloads\others\heart (1).csv
-2026-02-11 16:33:17.360969 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart (2).csv -> C:\users\Vivek\Downloads\others\heart (2).csv
-2026-02-11 16:33:17.362253 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart (3).csv -> C:\users\Vivek\Downloads\others\heart (3).csv
-2026-02-11 16:33:17.363079 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\archives
-2026-02-11 16:33:17.364224 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart+disease.zip -> C:\users\Vivek\Downloads\archives\heart+disease.zip
-2026-02-11 16:33:17.365515 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_2022_no_nans - heart_2022_no_nans.csv -> C:\users\Vivek\Downloads\others\heart_2022_no_nans - heart_2022_no_nans.csv
-2026-02-11 16:33:17.366790 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease.csv -> C:\users\Vivek\Downloads\others\heart_disease.csv
-2026-02-11 16:33:17.368265 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease_cleaned.csv -> C:\users\Vivek\Downloads\others\heart_disease_cleaned.csv
-2026-02-11 16:33:17.369821 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease_cleaned_unique.csv -> C:\users\Vivek\Downloads\others\heart_disease_cleaned_unique.csv
-2026-02-11 16:33:17.371203 |  INFO  : Moved files : C:\users\Vivek\Downloads\Heart_Disease_Dataset.csv -> C:\users\Vivek\Downloads\others\Heart_Disease_Dataset.csv
-2026-02-11 16:33:17.372505 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease_million_rows.csv -> C:\users\Vivek\Downloads\others\heart_disease_million_rows.csv
-2026-02-11 16:33:17.374989 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease_model_ready.csv -> C:\users\Vivek\Downloads\others\heart_disease_model_ready.csv
-2026-02-11 16:33:17.376376 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_Disease_Testing_Dataset.csv -> C:\users\Vivek\Downloads\others\heart_Disease_Testing_Dataset.csv
-2026-02-11 16:33:17.377514 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease_titan_ready.csv -> C:\users\Vivek\Downloads\others\heart_disease_titan_ready.csv
-2026-02-11 16:33:17.378833 |  INFO  : Moved files : C:\users\Vivek\Downloads\Heart_Disease_Training_Dataset.csv -> C:\users\Vivek\Downloads\others\Heart_Disease_Training_Dataset.csv
-2026-02-11 16:33:17.380193 |  INFO  : Moved files : C:\users\Vivek\Downloads\heart_disease_uci.csv -> C:\users\Vivek\Downloads\others\heart_disease_uci.csv
-2026-02-11 16:33:17.381576 |  INFO  : Moved files : C:\users\Vivek\Downloads\icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx -> C:\users\Vivek\Downloads\invoice\icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx
-2026-02-11 16:33:17.382576 |  INFO  : Moved files : C:\users\Vivek\Downloads\literature review (1).docx -> C:\users\Vivek\Downloads\research\literature review (1).docx
-2026-02-11 16:33:17.383757 |  INFO  : Moved files : C:\users\Vivek\Downloads\literature review.docx -> C:\users\Vivek\Downloads\research\literature review.docx
-2026-02-11 16:33:17.385234 |  INFO  : Moved files : C:\users\Vivek\Downloads\Marksheet First Year.jpg -> C:\users\Vivek\Downloads\images\Marksheet First Year.jpg
-2026-02-11 16:33:17.386422 |  INFO  : Moved files : C:\users\Vivek\Downloads\Marksheet First Year.png -> C:\users\Vivek\Downloads\images\Marksheet First Year.png
-2026-02-11 16:33:17.387686 |  INFO  : Moved files : C:\users\Vivek\Downloads\MarksheetSecond year.jpeg -> C:\users\Vivek\Downloads\images\MarksheetSecond year.jpeg
-2026-02-11 16:33:17.388523 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\blog
-2026-02-11 16:33:17.389665 |  INFO  : Moved files : C:\users\Vivek\Downloads\Methodology.docx -> C:\users\Vivek\Downloads\blog\Methodology.docx
-2026-02-11 16:33:17.390390 |  INFO  : Making the directory of label -> C:\users\Vivek\Downloads\installers
-2026-02-11 16:33:17.391582 |  INFO  : Moved files : C:\users\Vivek\Downloads\node-v24.13.0-x64.msi -> C:\users\Vivek\Downloads\installers\node-v24.13.0-x64.msi
-2026-02-11 16:33:17.392838 |  INFO  : Moved files : C:\users\Vivek\Downloads\processed_cleveland.csv -> C:\users\Vivek\Downloads\others\processed_cleveland.csv
-2026-02-11 16:33:17.394083 |  INFO  : Moved files : C:\users\Vivek\Downloads\Result & Discussion.docx -> C:\users\Vivek\Downloads\research\Result & Discussion.docx
-2026-02-11 16:33:17.395382 |  INFO  : Moved files : C:\users\Vivek\Downloads\SETFILE (1).png -> C:\users\Vivek\Downloads\images\SETFILE (1).png
-2026-02-11 16:33:17.396596 |  INFO  : Moved files : C:\users\Vivek\Downloads\SETFILE.png -> C:\users\Vivek\Downloads\images\SETFILE.png
-2026-02-11 16:33:17.397755 |  INFO  : Moved files : C:\users\Vivek\Downloads\statlog+heart.zip -> C:\users\Vivek\Downloads\archives\statlog+heart.zip
-2026-02-11 16:33:17.399008 |  INFO  : Moved files : C:\users\Vivek\Downloads\Subscriptions-Data-20260111150240.csv -> C:\users\Vivek\Downloads\others\Subscriptions-Data-20260111150240.csv
-2026-02-11 16:33:17.400183 |  INFO  : Moved files : C:\users\Vivek\Downloads\Titan model.pdf -> C:\users\Vivek\Downloads\book\Titan model.pdf
-2026-02-11 16:33:27.700455 |  INFO  : Reverting the changes
-2026-02-11 16:33:27.701682 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\book\Titan model.pdf -> C:\users\Vivek\Downloads\Titan model.pdf
-2026-02-11 16:33:27.703512 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\Subscriptions-Data-20260111150240.csv -> C:\users\Vivek\Downloads\Subscriptions-Data-20260111150240.csv
-2026-02-11 16:33:27.705169 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\archives\statlog+heart.zip -> C:\users\Vivek\Downloads\statlog+heart.zip
-2026-02-11 16:33:27.706775 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\SETFILE.png -> C:\users\Vivek\Downloads\SETFILE.png
-2026-02-11 16:33:27.708901 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\SETFILE (1).png -> C:\users\Vivek\Downloads\SETFILE (1).png
-2026-02-11 16:33:27.710567 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\Result & Discussion.docx -> C:\users\Vivek\Downloads\Result & Discussion.docx
-2026-02-11 16:33:27.712028 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\processed_cleveland.csv -> C:\users\Vivek\Downloads\processed_cleveland.csv
-2026-02-11 16:33:27.714528 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\installers\node-v24.13.0-x64.msi -> C:\users\Vivek\Downloads\node-v24.13.0-x64.msi
-2026-02-11 16:33:27.716525 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\installers
-2026-02-11 16:33:27.717462 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\blog\Methodology.docx -> C:\users\Vivek\Downloads\Methodology.docx
-2026-02-11 16:33:27.718596 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\blog
-2026-02-11 16:33:27.719509 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\MarksheetSecond year.jpeg -> C:\users\Vivek\Downloads\MarksheetSecond year.jpeg
-2026-02-11 16:33:27.721168 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\Marksheet First Year.png -> C:\users\Vivek\Downloads\Marksheet First Year.png
-2026-02-11 16:33:27.722817 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\Marksheet First Year.jpg -> C:\users\Vivek\Downloads\Marksheet First Year.jpg
-2026-02-11 16:33:27.724716 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\literature review.docx -> C:\users\Vivek\Downloads\literature review.docx
-2026-02-11 16:33:27.726843 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\literature review (1).docx -> C:\users\Vivek\Downloads\literature review (1).docx
-2026-02-11 16:33:27.728328 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\invoice\icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx -> C:\users\Vivek\Downloads\icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx
-2026-02-11 16:33:27.729957 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease_uci.csv -> C:\users\Vivek\Downloads\heart_disease_uci.csv
-2026-02-11 16:33:27.731575 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\Heart_Disease_Training_Dataset.csv -> C:\users\Vivek\Downloads\Heart_Disease_Training_Dataset.csv
-2026-02-11 16:33:27.733267 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease_titan_ready.csv -> C:\users\Vivek\Downloads\heart_disease_titan_ready.csv
-2026-02-11 16:33:27.734816 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_Disease_Testing_Dataset.csv -> C:\users\Vivek\Downloads\heart_Disease_Testing_Dataset.csv
-2026-02-11 16:33:27.736362 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease_model_ready.csv -> C:\users\Vivek\Downloads\heart_disease_model_ready.csv
-2026-02-11 16:33:27.738655 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease_million_rows.csv -> C:\users\Vivek\Downloads\heart_disease_million_rows.csv
-2026-02-11 16:33:27.740487 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\Heart_Disease_Dataset.csv -> C:\users\Vivek\Downloads\Heart_Disease_Dataset.csv
-2026-02-11 16:33:27.742017 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease_cleaned_unique.csv -> C:\users\Vivek\Downloads\heart_disease_cleaned_unique.csv
-2026-02-11 16:33:27.743571 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease_cleaned.csv -> C:\users\Vivek\Downloads\heart_disease_cleaned.csv
-2026-02-11 16:33:27.745224 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_disease.csv -> C:\users\Vivek\Downloads\heart_disease.csv
-2026-02-11 16:33:27.746836 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart_2022_no_nans - heart_2022_no_nans.csv -> C:\users\Vivek\Downloads\heart_2022_no_nans - heart_2022_no_nans.csv
-2026-02-11 16:33:27.748390 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\archives\heart+disease.zip -> C:\users\Vivek\Downloads\heart+disease.zip
-2026-02-11 16:33:27.749613 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\archives
-2026-02-11 16:33:27.750443 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart (3).csv -> C:\users\Vivek\Downloads\heart (3).csv
-2026-02-11 16:33:27.751985 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart (2).csv -> C:\users\Vivek\Downloads\heart (2).csv
-2026-02-11 16:33:27.753529 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\heart (1).csv -> C:\users\Vivek\Downloads\heart (1).csv
-2026-02-11 16:33:27.755045 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\Graduation.jpg -> C:\users\Vivek\Downloads\Graduation.jpg
-2026-02-11 16:33:27.756722 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\gmail_auth.json -> C:\users\Vivek\Downloads\gmail_auth.json
-2026-02-11 16:33:27.758339 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\EKSHETRA S2 NEW.pdf -> C:\users\Vivek\Downloads\EKSHETRA S2 NEW.pdf
-2026-02-11 16:33:27.759682 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\book\Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf -> C:\users\Vivek\Downloads\Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf
-2026-02-11 16:33:27.760960 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\download.pdf -> C:\users\Vivek\Downloads\download.pdf
-2026-02-11 16:33:27.762164 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\dataset.csv -> C:\users\Vivek\Downloads\dataset.csv
-2026-02-11 16:33:27.763405 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\Conference-template-A4.doc -> C:\users\Vivek\Downloads\Conference-template-A4.doc
-2026-02-11 16:33:27.764872 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json -> C:\users\Vivek\Downloads\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json
-2026-02-11 16:33:27.766365 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json -> C:\users\Vivek\Downloads\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json
-2026-02-11 16:33:27.767926 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\ChatGPT Image Dec 30, 2025, 03_14_50 PM.png -> C:\users\Vivek\Downloads\ChatGPT Image Dec 30, 2025, 03_14_50 PM.png
-2026-02-11 16:33:27.770620 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\others\Cardiovascular_Disease_Dataset.csv -> C:\users\Vivek\Downloads\Cardiovascular_Disease_Dataset.csv
-2026-02-11 16:33:27.772090 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\others
-2026-02-11 16:33:27.773145 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\book\2501.00663v1.pdf -> C:\users\Vivek\Downloads\2501.00663v1.pdf
-2026-02-11 16:33:27.774533 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\book
-2026-02-11 16:33:27.775308 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\211696_Limits_Sol.pdf -> C:\users\Vivek\Downloads\211696_Limits_Sol.pdf
-2026-02-11 16:33:27.777154 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\research\211696_Limits_Paper.pdf -> C:\users\Vivek\Downloads\211696_Limits_Paper.pdf
-2026-02-11 16:33:27.778613 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\research
-2026-02-11 16:33:27.779514 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\images\10th.jpg -> C:\users\Vivek\Downloads\10th.jpg
-2026-02-11 16:33:27.780788 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\images
-2026-02-11 16:33:27.781717 |  INFO  : Reverted Files : C:\users\Vivek\Downloads\invoice\10th mark sheet.pdf -> C:\users\Vivek\Downloads\10th mark sheet.pdf
-2026-02-11 16:33:27.783360 |  WARNING  : Removing the Parent Folder -> C:\Users\vivek\Downloads\invoice
-2026-02-11 16:33:42.718054 |  INFO  : Reverting the changes
-2026-02-11 16:37:20.298299 |  INFO  : Reverting the changes
-2026-02-11 16:41:28.269043 |  INFO  : Reverting the changes
-2026-02-11 16:41:29.656745 |  INFO  : Reverting the changes
-2026-02-11 16:41:58.866133 |  INFO  : Reverting the changes
-2026-02-11 16:42:00.369175 |  INFO  : Reverting the changes
-2026-02-11 16:42:30.633049 |  INFO  : Reverting the changes
-2026-02-11 16:42:33.921510 |  INFO  : Reverting the changes
-2026-02-11 16:42:44.693561 |  INFO  : Reverting the changes
-2026-02-11 16:43:04.742299 |  INFO  : Reverting the changes
-2026-02-11 16:44:42.537249 |  INFO  : Reverting the changes
+2026-02-25 10:16:58.232376 |  INFO  : Checking the folder
+2026-02-25 10:16:58.232376 |  INFO  : files found -> 10th mark sheet.pdf
+2026-02-25 10:16:58.232376 |  INFO  : files found -> 10th.jpg
+2026-02-25 10:16:58.232376 |  WARNING  : Skipped files -> C:\Users\vivek\Downloads\1770372440269
+2026-02-25 10:16:58.237009 |  INFO  : files found -> 211696_Limits_Paper.pdf
+2026-02-25 10:16:58.237009 |  INFO  : files found -> 211696_Limits_Sol.pdf
+2026-02-25 10:16:58.238140 |  INFO  : files found -> 2501.00663v1.pdf
+2026-02-25 10:16:58.238743 |  INFO  : files found -> 591.74-notebook-win10-win11-64bit-international-nsd-dch-whql.exe
+2026-02-25 10:16:58.238743 |  INFO  : files found -> activity.png
+2026-02-25 10:16:58.238743 |  INFO  : files found -> activity1.png
+2026-02-25 10:16:58.241070 |  INFO  : files found -> best_titan_mag_model.pth
+2026-02-25 10:16:58.242078 |  INFO  : files found -> Blockchain_output.pdf
+2026-02-25 10:16:58.242078 |  INFO  : files found -> Cardiovascular_Disease_Dataset.csv
+2026-02-25 10:16:58.243078 |  INFO  : files found -> ChatGPT Image Dec 30, 2025, 03_14_50 PM.png
+2026-02-25 10:16:58.243078 |  INFO  : files found -> client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json
+2026-02-25 10:16:58.245389 |  INFO  : files found -> client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json
+2026-02-25 10:16:58.245389 |  INFO  : files found -> Conference-template-A4.doc
+2026-02-25 10:16:58.246399 |  INFO  : files found -> CPMppt.pptx_20260212_092133_0000.pdf
+2026-02-25 10:16:58.246886 |  INFO  : files found -> CRM-Deepak_Vishwakarma.pdf
+2026-02-25 10:16:58.247440 |  INFO  : files found -> dataset.csv
+2026-02-25 10:16:58.247440 |  INFO  : files found -> dfd level 1.png
+2026-02-25 10:16:58.250458 |  INFO  : files found -> dfd0.png
+2026-02-25 10:16:58.250995 |  INFO  : files found -> dfd1.png
+2026-02-25 10:16:58.252017 |  INFO  : files found -> download.pdf
+2026-02-25 10:16:58.253002 |  INFO  : files found -> Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf
+2026-02-25 10:16:58.253002 |  INFO  : files found -> EKSHETRA S2 NEW.pdf
+2026-02-25 10:16:58.253002 |  WARNING  : Skipped files -> C:\Users\vivek\Downloads\gmail-download
+2026-02-25 10:16:58.254004 |  INFO  : files found -> gmail_auth.json
+2026-02-25 10:16:58.254004 |  INFO  : files found -> Graduation.jpg
+2026-02-25 10:16:58.255006 |  WARNING  : Skipped files -> C:\Users\vivek\Downloads\harvard.wav
+2026-02-25 10:16:58.255006 |  INFO  : files found -> harvard.wav.zip
+2026-02-25 10:16:58.256350 |  INFO  : files found -> heart (1).csv
+2026-02-25 10:16:58.256350 |  INFO  : files found -> heart (2).csv
+2026-02-25 10:16:58.257364 |  INFO  : files found -> heart (3).csv
+2026-02-25 10:16:58.257364 |  INFO  : files found -> heart+disease.zip
+2026-02-25 10:16:58.258362 |  INFO  : files found -> heart_2022_no_nans - heart_2022_no_nans.csv
+2026-02-25 10:16:58.258874 |  INFO  : files found -> heart_disease.csv
+2026-02-25 10:16:58.259882 |  INFO  : files found -> heart_disease_cleaned.csv
+2026-02-25 10:16:58.259882 |  INFO  : files found -> heart_disease_cleaned_unique.csv
+2026-02-25 10:16:58.260884 |  INFO  : files found -> Heart_Disease_Dataset.csv
+2026-02-25 10:16:58.261318 |  INFO  : files found -> heart_disease_million_rows.csv
+2026-02-25 10:16:58.261908 |  INFO  : files found -> heart_disease_model_ready.csv
+2026-02-25 10:16:58.261908 |  INFO  : files found -> heart_Disease_Testing_Dataset.csv
+2026-02-25 10:16:58.261908 |  INFO  : files found -> heart_disease_titan_ready.csv
+2026-02-25 10:16:58.263897 |  INFO  : files found -> Heart_Disease_Training_Dataset.csv
+2026-02-25 10:16:58.263897 |  INFO  : files found -> heart_disease_uci.csv
+2026-02-25 10:16:58.263897 |  INFO  : files found -> ICICT 2026 PPT Formate.pptx
+2026-02-25 10:16:58.266424 |  INFO  : files found -> icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx
+2026-02-25 10:16:58.266424 |  INFO  : files found -> IT_4713_4712_An Intelligent Heart Disease Prediction System Using TiTAN-MAG on Real-Time Clinical Data.docx
+2026-02-25 10:16:58.266424 |  INFO  : files found -> literature review (1).docx
+2026-02-25 10:16:58.266424 |  INFO  : files found -> literature review.docx
+2026-02-25 10:16:58.266424 |  INFO  : files found -> mag_embeddings.h5
+2026-02-25 10:16:58.266424 |  INFO  : files found -> Marksheet First Year.jpg
+2026-02-25 10:16:58.269736 |  INFO  : files found -> Marksheet First Year.png
+2026-02-25 10:16:58.270243 |  INFO  : files found -> MarksheetSecond year.jpeg
+2026-02-25 10:16:58.270243 |  INFO  : files found -> Methodology.docx
+2026-02-25 10:16:58.271587 |  INFO  : files found -> MU_TYBSC_CS_SYLLABUS_2023.pdf
+2026-02-25 10:16:58.272122 |  INFO  : files found -> NLP Report.docx
+2026-02-25 10:16:58.272589 |  INFO  : files found -> NLP Report.pdf
+2026-02-25 10:16:58.272589 |  INFO  : files found -> node-v24.13.0-x64.msi
+2026-02-25 10:16:58.273596 |  INFO  : files found -> processed_cleveland.csv
+2026-02-25 10:16:58.273596 |  INFO  : files found -> project.drawio.png
+2026-02-25 10:16:58.274603 |  INFO  : files found -> python-3.11.5-amd64.exe
+2026-02-25 10:16:58.274603 |  INFO  : files found -> research_data (1).h5
+2026-02-25 10:16:58.274603 |  INFO  : files found -> research_data.h5
+2026-02-25 10:16:58.274603 |  INFO  : files found -> Result & Discussion.docx
+2026-02-25 10:16:58.274603 |  INFO  : files found -> RP102_An Intelligent Heart Disease Prediction System Using TiTAN-MAG on Real-Time Clinical Data.pdf
+2026-02-25 10:16:58.277209 |  INFO  : files found -> RP102_An Intelligent Heart Disease Prediction System Using TiTAN-MAG on Real-Time Clinical Data.pptx
+2026-02-25 10:16:58.277209 |  INFO  : files found -> RP108_Deep Ensemble Hybrid Model for Real-Time HAB Risk Assessment.pptx
+2026-02-25 10:16:58.278218 |  INFO  : files found -> rpa page.pdf
+2026-02-25 10:16:58.278218 |  INFO  : files found -> SETFILE (1).png
+2026-02-25 10:16:58.278218 |  INFO  : files found -> SETFILE.png
+2026-02-25 10:16:58.278218 |  INFO  : files found -> Softmax-Function-in-Deep-Learning (1).pptx
+2026-02-25 10:16:58.279725 |  INFO  : files found -> Softmax-Function-in-Deep-Learning.pptx
+2026-02-25 10:16:58.280541 |  INFO  : files found -> statlog+heart.zip
+2026-02-25 10:16:58.280541 |  INFO  : files found -> Subscriptions-Data-20260111150240.csv
+2026-02-25 10:16:58.280541 |  INFO  : files found -> systemarchitecture.png
+2026-02-25 10:16:58.280541 |  INFO  : files found -> system_architecture.png
+2026-02-25 10:16:58.280541 |  INFO  : files found -> Titan model.pdf
+2026-02-25 10:16:58.280541 |  INFO  : files found -> WSD_CE2__Presentation.pptx
+2026-02-25 10:16:58.280541 |  INFO  : files found -> XI-IT.pdf
+2026-02-25 10:17:00.202405 |  INFO  : Making the Prediction
+2026-02-25 10:17:00.272798 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:00.273799 |  INFO  : 10th mark sheet.pdf -> others
+2026-02-25 10:17:00.273799 |  INFO  : 10th.jpg -> images
+2026-02-25 10:17:00.406006 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:00.406006 |  INFO  : 211696_Limits_Paper.pdf -> others
+2026-02-25 10:17:00.558285 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:00.558285 |  INFO  : 211696_Limits_Sol.pdf -> others
+2026-02-25 10:17:00.662916 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:00.663469 |  INFO  : 2501.00663v1.pdf -> others
+2026-02-25 10:17:00.663469 |  INFO  : 591.74-notebook-win10-win11-64bit-international-nsd-dch-whql.exe -> installers
+2026-02-25 10:17:00.663469 |  INFO  : activity.png -> images
+2026-02-25 10:17:00.663469 |  INFO  : activity1.png -> images
+2026-02-25 10:17:00.665490 |  INFO  : C:\Users\vivek\Downloads\best_titan_mag_model.pth : Unsupported Binary File
+2026-02-25 10:17:00.665994 |  INFO  : best_titan_mag_model.pth -> others
+2026-02-25 10:17:00.756543 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:00.758081 |  INFO  : Blockchain_output.pdf -> others
+2026-02-25 10:17:00.758626 |  INFO  : C:\Users\vivek\Downloads\Cardiovascular_Disease_Dataset.csv : Unsupported Binary File
+2026-02-25 10:17:00.758626 |  INFO  : Cardiovascular_Disease_Dataset.csv -> others
+2026-02-25 10:17:00.759633 |  INFO  : ChatGPT Image Dec 30, 2025, 03_14_50 PM.png -> images
+2026-02-25 10:17:00.759633 |  INFO  : C:\Users\vivek\Downloads\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json : Unsupported Binary File
+2026-02-25 10:17:00.759633 |  INFO  : client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json -> others
+2026-02-25 10:17:00.760632 |  INFO  : C:\Users\vivek\Downloads\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json : Unsupported Binary File
+2026-02-25 10:17:00.760632 |  INFO  : client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json -> others
+2026-02-25 10:17:00.761632 |  INFO  : C:\Users\vivek\Downloads\Conference-template-A4.doc : Unsupported Binary File
+2026-02-25 10:17:00.761632 |  INFO  : Conference-template-A4.doc -> others
+2026-02-25 10:17:00.980555 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:00.980555 |  INFO  : CPMppt.pptx_20260212_092133_0000.pdf -> others
+2026-02-25 10:17:01.076065 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:01.076065 |  INFO  : CRM-Deepak_Vishwakarma.pdf -> others
+2026-02-25 10:17:01.076065 |  INFO  : C:\Users\vivek\Downloads\dataset.csv : Unsupported Binary File
+2026-02-25 10:17:01.078072 |  INFO  : dataset.csv -> others
+2026-02-25 10:17:01.078072 |  INFO  : dfd level 1.png -> images
+2026-02-25 10:17:01.078072 |  INFO  : dfd0.png -> images
+2026-02-25 10:17:01.078072 |  INFO  : dfd1.png -> images
+2026-02-25 10:17:01.299775 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:01.299775 |  INFO  : download.pdf -> others
+2026-02-25 10:17:01.414799 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:01.414799 |  INFO  : Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf -> others
+2026-02-25 10:17:01.498378 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:01.499378 |  INFO  : EKSHETRA S2 NEW.pdf -> others
+2026-02-25 10:17:01.499378 |  INFO  : C:\Users\vivek\Downloads\gmail_auth.json : Unsupported Binary File
+2026-02-25 10:17:01.499378 |  INFO  : gmail_auth.json -> others
+2026-02-25 10:17:01.499378 |  INFO  : Graduation.jpg -> images
+2026-02-25 10:17:01.499378 |  INFO  : harvard.wav.zip -> archives
+2026-02-25 10:17:01.499378 |  INFO  : C:\Users\vivek\Downloads\heart (1).csv : Unsupported Binary File
+2026-02-25 10:17:01.499378 |  INFO  : heart (1).csv -> others
+2026-02-25 10:17:01.499378 |  INFO  : C:\Users\vivek\Downloads\heart (2).csv : Unsupported Binary File
+2026-02-25 10:17:01.499378 |  INFO  : heart (2).csv -> others
+2026-02-25 10:17:01.499378 |  INFO  : C:\Users\vivek\Downloads\heart (3).csv : Unsupported Binary File
+2026-02-25 10:17:01.499378 |  INFO  : heart (3).csv -> others
+2026-02-25 10:17:01.499378 |  INFO  : heart+disease.zip -> archives
+2026-02-25 10:17:01.505209 |  INFO  : C:\Users\vivek\Downloads\heart_2022_no_nans - heart_2022_no_nans.csv : Unsupported Binary File
+2026-02-25 10:17:01.505209 |  INFO  : heart_2022_no_nans - heart_2022_no_nans.csv -> others
+2026-02-25 10:17:01.506252 |  INFO  : C:\Users\vivek\Downloads\heart_disease.csv : Unsupported Binary File
+2026-02-25 10:17:01.506252 |  INFO  : heart_disease.csv -> others
+2026-02-25 10:17:01.507264 |  INFO  : C:\Users\vivek\Downloads\heart_disease_cleaned.csv : Unsupported Binary File
+2026-02-25 10:17:01.507762 |  INFO  : heart_disease_cleaned.csv -> others
+2026-02-25 10:17:01.508556 |  INFO  : C:\Users\vivek\Downloads\heart_disease_cleaned_unique.csv : Unsupported Binary File
+2026-02-25 10:17:01.508953 |  INFO  : heart_disease_cleaned_unique.csv -> others
+2026-02-25 10:17:01.508953 |  INFO  : C:\Users\vivek\Downloads\Heart_Disease_Dataset.csv : Unsupported Binary File
+2026-02-25 10:17:01.510022 |  INFO  : Heart_Disease_Dataset.csv -> others
+2026-02-25 10:17:01.510648 |  INFO  : C:\Users\vivek\Downloads\heart_disease_million_rows.csv : Unsupported Binary File
+2026-02-25 10:17:01.510648 |  INFO  : heart_disease_million_rows.csv -> others
+2026-02-25 10:17:01.510648 |  INFO  : C:\Users\vivek\Downloads\heart_disease_model_ready.csv : Unsupported Binary File
+2026-02-25 10:17:01.510648 |  INFO  : heart_disease_model_ready.csv -> others
+2026-02-25 10:17:01.513447 |  INFO  : C:\Users\vivek\Downloads\heart_Disease_Testing_Dataset.csv : Unsupported Binary File
+2026-02-25 10:17:01.513447 |  INFO  : heart_Disease_Testing_Dataset.csv -> others
+2026-02-25 10:17:01.513447 |  INFO  : C:\Users\vivek\Downloads\heart_disease_titan_ready.csv : Unsupported Binary File
+2026-02-25 10:17:01.514506 |  INFO  : heart_disease_titan_ready.csv -> others
+2026-02-25 10:17:01.514881 |  INFO  : C:\Users\vivek\Downloads\Heart_Disease_Training_Dataset.csv : Unsupported Binary File
+2026-02-25 10:17:01.514881 |  INFO  : Heart_Disease_Training_Dataset.csv -> others
+2026-02-25 10:17:01.516408 |  INFO  : C:\Users\vivek\Downloads\heart_disease_uci.csv : Unsupported Binary File
+2026-02-25 10:17:01.516408 |  INFO  : heart_disease_uci.csv -> others
+2026-02-25 10:17:01.637877 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:01.639390 |  INFO  : ICICT 2026 PPT Formate.pptx -> others
+2026-02-25 10:17:01.722804 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:01.722804 |  INFO  : icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx -> others
+2026-02-25 10:17:01.825922 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:01.825922 |  INFO  : IT_4713_4712_An Intelligent Heart Disease Prediction System Using TiTAN-MAG on Real-Time Clinical Data.docx -> others
+2026-02-25 10:17:01.889723 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:01.889723 |  INFO  : literature review (1).docx -> others
+2026-02-25 10:17:01.970500 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:01.970500 |  INFO  : literature review.docx -> others
+2026-02-25 10:17:01.970500 |  INFO  : C:\Users\vivek\Downloads\mag_embeddings.h5 : Unsupported Binary File
+2026-02-25 10:17:01.970500 |  INFO  : mag_embeddings.h5 -> others
+2026-02-25 10:17:01.970500 |  INFO  : Marksheet First Year.jpg -> images
+2026-02-25 10:17:01.970500 |  INFO  : Marksheet First Year.png -> images
+2026-02-25 10:17:01.973667 |  INFO  : MarksheetSecond year.jpeg -> images
+2026-02-25 10:17:02.070724 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:02.070724 |  INFO  : Methodology.docx -> others
+2026-02-25 10:17:02.192820 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:02.192820 |  INFO  : MU_TYBSC_CS_SYLLABUS_2023.pdf -> others
+2026-02-25 10:17:02.373872 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:02.373872 |  INFO  : NLP Report.docx -> others
+2026-02-25 10:17:02.498059 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:02.498059 |  INFO  : NLP Report.pdf -> others
+2026-02-25 10:17:02.499563 |  INFO  : node-v24.13.0-x64.msi -> installers
+2026-02-25 10:17:02.499563 |  INFO  : C:\Users\vivek\Downloads\processed_cleveland.csv : Unsupported Binary File
+2026-02-25 10:17:02.499563 |  INFO  : processed_cleveland.csv -> others
+2026-02-25 10:17:02.499563 |  INFO  : project.drawio.png -> images
+2026-02-25 10:17:02.499563 |  INFO  : python-3.11.5-amd64.exe -> installers
+2026-02-25 10:17:02.499563 |  INFO  : C:\Users\vivek\Downloads\research_data (1).h5 : Unsupported Binary File
+2026-02-25 10:17:02.499563 |  INFO  : research_data (1).h5 -> others
+2026-02-25 10:17:02.499563 |  INFO  : C:\Users\vivek\Downloads\research_data.h5 : Unsupported Binary File
+2026-02-25 10:17:02.499563 |  INFO  : research_data.h5 -> others
+2026-02-25 10:17:02.587009 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:02.587009 |  INFO  : Result & Discussion.docx -> others
+2026-02-25 10:17:02.680880 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:02.682885 |  INFO  : RP102_An Intelligent Heart Disease Prediction System Using TiTAN-MAG on Real-Time Clinical Data.pdf -> others
+2026-02-25 10:17:02.773554 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:02.773554 |  INFO  : RP102_An Intelligent Heart Disease Prediction System Using TiTAN-MAG on Real-Time Clinical Data.pptx -> others
+2026-02-25 10:17:02.874047 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:02.874047 |  INFO  : RP108_Deep Ensemble Hybrid Model for Real-Time HAB Risk Assessment.pptx -> others
+2026-02-25 10:17:02.961522 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:02.962524 |  INFO  : rpa page.pdf -> others
+2026-02-25 10:17:02.962524 |  INFO  : SETFILE (1).png -> images
+2026-02-25 10:17:02.963523 |  INFO  : SETFILE.png -> images
+2026-02-25 10:17:03.094427 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:03.095058 |  INFO  : Softmax-Function-in-Deep-Learning (1).pptx -> others
+2026-02-25 10:17:03.197091 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:03.197091 |  INFO  : Softmax-Function-in-Deep-Learning.pptx -> others
+2026-02-25 10:17:03.197091 |  INFO  : statlog+heart.zip -> archives
+2026-02-25 10:17:03.197091 |  INFO  : C:\Users\vivek\Downloads\Subscriptions-Data-20260111150240.csv : Unsupported Binary File
+2026-02-25 10:17:03.197091 |  INFO  : Subscriptions-Data-20260111150240.csv -> others
+2026-02-25 10:17:03.199654 |  INFO  : systemarchitecture.png -> images
+2026-02-25 10:17:03.199654 |  INFO  : system_architecture.png -> images
+2026-02-25 10:17:03.311121 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:03.311121 |  INFO  : Titan model.pdf -> others
+2026-02-25 10:17:03.399677 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:03.399677 |  INFO  : WSD_CE2__Presentation.pptx -> others
+2026-02-25 10:17:03.824772 |  WARNING  : Model Failed to predict
+2026-02-25 10:17:03.824772 |  INFO  : XI-IT.pdf -> others
+2026-02-25 10:17:03.826783 |  INFO  : Organizing the file
+2026-02-25 10:17:04.966432 |  WARNING  : User aborted the organizing
+2026-02-25 10:21:03.777398 |  INFO  : Checking the folder
+2026-02-25 10:21:03.778399 |  INFO  : files found -> 10th mark sheet.pdf
+2026-02-25 10:21:03.779601 |  INFO  : files found -> 10th.jpg
+2026-02-25 10:21:03.779601 |  WARNING  : Skipped files -> C:\Users\vivek\Downloads\1770372440269
+2026-02-25 10:21:03.780188 |  INFO  : files found -> 211696_Limits_Paper.pdf
+2026-02-25 10:21:03.780188 |  INFO  : files found -> 211696_Limits_Sol.pdf
+2026-02-25 10:21:03.781196 |  INFO  : files found -> 2501.00663v1.pdf
+2026-02-25 10:21:03.781196 |  INFO  : files found -> 591.74-notebook-win10-win11-64bit-international-nsd-dch-whql.exe
+2026-02-25 10:21:03.781196 |  INFO  : files found -> activity.png
+2026-02-25 10:21:03.782735 |  INFO  : files found -> activity1.png
+2026-02-25 10:21:03.782735 |  INFO  : files found -> best_titan_mag_model.pth
+2026-02-25 10:21:03.783746 |  INFO  : files found -> Blockchain_output.pdf
+2026-02-25 10:21:03.783746 |  INFO  : files found -> Cardiovascular_Disease_Dataset.csv
+2026-02-25 10:21:03.784748 |  INFO  : files found -> ChatGPT Image Dec 30, 2025, 03_14_50 PM.png
+2026-02-25 10:21:03.784748 |  INFO  : files found -> client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json
+2026-02-25 10:21:03.785744 |  INFO  : files found -> client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json
+2026-02-25 10:21:03.785744 |  INFO  : files found -> Conference-template-A4.doc
+2026-02-25 10:21:03.786744 |  INFO  : files found -> CPMppt.pptx_20260212_092133_0000.pdf
+2026-02-25 10:21:03.786744 |  INFO  : files found -> CRM-Deepak_Vishwakarma.pdf
+2026-02-25 10:21:03.787863 |  INFO  : files found -> dataset.csv
+2026-02-25 10:21:03.787863 |  INFO  : files found -> dfd level 1.png
+2026-02-25 10:21:03.787863 |  INFO  : files found -> dfd0.png
+2026-02-25 10:21:03.788873 |  INFO  : files found -> dfd1.png
+2026-02-25 10:21:03.789872 |  INFO  : files found -> download.pdf
+2026-02-25 10:21:03.789872 |  INFO  : files found -> Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf
+2026-02-25 10:21:03.790872 |  INFO  : files found -> EKSHETRA S2 NEW.pdf
+2026-02-25 10:21:03.790872 |  WARNING  : Skipped files -> C:\Users\vivek\Downloads\gmail-download
+2026-02-25 10:21:03.791872 |  INFO  : files found -> gmail_auth.json
+2026-02-25 10:21:03.792872 |  INFO  : files found -> Graduation.jpg
+2026-02-25 10:21:03.792872 |  WARNING  : Skipped files -> C:\Users\vivek\Downloads\harvard.wav
+2026-02-25 10:21:03.793387 |  INFO  : files found -> harvard.wav.zip
+2026-02-25 10:21:03.793901 |  INFO  : files found -> heart (1).csv
+2026-02-25 10:21:03.795015 |  INFO  : files found -> heart (2).csv
+2026-02-25 10:21:03.795669 |  INFO  : files found -> heart (3).csv
+2026-02-25 10:21:03.795669 |  INFO  : files found -> heart+disease.zip
+2026-02-25 10:21:03.796683 |  INFO  : files found -> heart_2022_no_nans - heart_2022_no_nans.csv
+2026-02-25 10:21:03.796683 |  INFO  : files found -> heart_disease.csv
+2026-02-25 10:21:03.796683 |  INFO  : files found -> heart_disease_cleaned.csv
+2026-02-25 10:21:03.797681 |  INFO  : files found -> heart_disease_cleaned_unique.csv
+2026-02-25 10:21:03.797681 |  INFO  : files found -> Heart_Disease_Dataset.csv
+2026-02-25 10:21:03.798680 |  INFO  : files found -> heart_disease_million_rows.csv
+2026-02-25 10:21:03.798680 |  INFO  : files found -> heart_disease_model_ready.csv
+2026-02-25 10:21:03.799682 |  INFO  : files found -> heart_Disease_Testing_Dataset.csv
+2026-02-25 10:21:03.800858 |  INFO  : files found -> heart_disease_titan_ready.csv
+2026-02-25 10:21:03.800858 |  INFO  : files found -> Heart_Disease_Training_Dataset.csv
+2026-02-25 10:21:03.802142 |  INFO  : files found -> heart_disease_uci.csv
+2026-02-25 10:21:03.803445 |  INFO  : files found -> ICICT 2026 PPT Formate.pptx
+2026-02-25 10:21:03.803445 |  INFO  : files found -> icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx
+2026-02-25 10:21:03.804445 |  INFO  : files found -> IT_4713_4712_An Intelligent Heart Disease Prediction System Using TiTAN-MAG on Real-Time Clinical Data.docx
+2026-02-25 10:21:03.804445 |  INFO  : files found -> literature review (1).docx
+2026-02-25 10:21:03.805717 |  INFO  : files found -> literature review.docx
+2026-02-25 10:21:03.806726 |  INFO  : files found -> mag_embeddings.h5
+2026-02-25 10:21:03.806726 |  INFO  : files found -> Marksheet First Year.jpg
+2026-02-25 10:21:03.808282 |  INFO  : files found -> Marksheet First Year.png
+2026-02-25 10:21:03.808282 |  INFO  : files found -> MarksheetSecond year.jpeg
+2026-02-25 10:21:03.809135 |  INFO  : files found -> Methodology.docx
+2026-02-25 10:21:03.810158 |  INFO  : files found -> MU_TYBSC_CS_SYLLABUS_2023.pdf
+2026-02-25 10:21:03.811147 |  INFO  : files found -> NLP Report.docx
+2026-02-25 10:21:03.812143 |  INFO  : files found -> NLP Report.pdf
+2026-02-25 10:21:03.813143 |  INFO  : files found -> node-v24.13.0-x64.msi
+2026-02-25 10:21:03.813143 |  INFO  : files found -> processed_cleveland.csv
+2026-02-25 10:21:03.814142 |  INFO  : files found -> project.drawio.png
+2026-02-25 10:21:03.814142 |  INFO  : files found -> python-3.11.5-amd64.exe
+2026-02-25 10:21:03.815145 |  INFO  : files found -> research_data (1).h5
+2026-02-25 10:21:03.815145 |  INFO  : files found -> research_data.h5
+2026-02-25 10:21:03.816142 |  INFO  : files found -> Result & Discussion.docx
+2026-02-25 10:21:03.817097 |  INFO  : files found -> RP102_An Intelligent Heart Disease Prediction System Using TiTAN-MAG on Real-Time Clinical Data.pdf
+2026-02-25 10:21:03.818085 |  INFO  : files found -> RP102_An Intelligent Heart Disease Prediction System Using TiTAN-MAG on Real-Time Clinical Data.pptx
+2026-02-25 10:21:03.819112 |  INFO  : files found -> RP108_Deep Ensemble Hybrid Model for Real-Time HAB Risk Assessment.pptx
+2026-02-25 10:21:03.820110 |  INFO  : files found -> rpa page.pdf
+2026-02-25 10:21:03.820618 |  INFO  : files found -> SETFILE (1).png
+2026-02-25 10:21:03.820618 |  INFO  : files found -> SETFILE.png
+2026-02-25 10:21:03.821625 |  INFO  : files found -> Softmax-Function-in-Deep-Learning (1).pptx
+2026-02-25 10:21:03.822254 |  INFO  : files found -> Softmax-Function-in-Deep-Learning.pptx
+2026-02-25 10:21:03.822254 |  INFO  : files found -> statlog+heart.zip
+2026-02-25 10:21:03.822254 |  INFO  : files found -> Subscriptions-Data-20260111150240.csv
+2026-02-25 10:21:03.823771 |  INFO  : files found -> systemarchitecture.png
+2026-02-25 10:21:03.823771 |  INFO  : files found -> system_architecture.png
+2026-02-25 10:21:03.823771 |  INFO  : files found -> Titan model.pdf
+2026-02-25 10:21:03.823771 |  INFO  : files found -> WSD_CE2__Presentation.pptx
+2026-02-25 10:21:03.823771 |  INFO  : files found -> XI-IT.pdf
+2026-02-25 10:21:05.727931 |  INFO  : Making the Prediction
+2026-02-25 10:21:10.446473 |  INFO  : 10th mark sheet.pdf -> articles
+2026-02-25 10:21:10.447471 |  INFO  : 10th.jpg -> images
+2026-02-25 10:21:12.374776 |  INFO  : 211696_Limits_Paper.pdf -> blog
+2026-02-25 10:21:15.235171 |  INFO  : 211696_Limits_Sol.pdf -> articles
+2026-02-25 10:21:17.149483 |  INFO  : 2501.00663v1.pdf -> articles
+2026-02-25 10:21:17.149483 |  INFO  : 591.74-notebook-win10-win11-64bit-international-nsd-dch-whql.exe -> installers
+2026-02-25 10:21:17.149483 |  INFO  : activity.png -> images
+2026-02-25 10:21:17.149483 |  INFO  : activity1.png -> images
+2026-02-25 10:21:17.154071 |  INFO  : C:\Users\vivek\Downloads\best_titan_mag_model.pth : Unsupported Binary File
+2026-02-25 10:21:17.154545 |  INFO  : best_titan_mag_model.pth -> others
+2026-02-25 10:21:17.772839 |  INFO  : Blockchain_output.pdf -> email
+2026-02-25 10:21:17.772839 |  INFO  : C:\Users\vivek\Downloads\Cardiovascular_Disease_Dataset.csv : Unsupported Binary File
+2026-02-25 10:21:17.773850 |  INFO  : Cardiovascular_Disease_Dataset.csv -> others
+2026-02-25 10:21:17.773850 |  INFO  : ChatGPT Image Dec 30, 2025, 03_14_50 PM.png -> images
+2026-02-25 10:21:17.775585 |  INFO  : C:\Users\vivek\Downloads\client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json : Unsupported Binary File
+2026-02-25 10:21:17.775585 |  INFO  : client_secret_1092791614836-4l8bpbfjthm0sp0hvg6tjbk4uor163uo.apps.googleusercontent.com.json -> others
+2026-02-25 10:21:17.775585 |  INFO  : C:\Users\vivek\Downloads\client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json : Unsupported Binary File
+2026-02-25 10:21:17.776884 |  INFO  : client_secret_1092791614836-c2178evqdouur3baet76hbtlvedrc2uf.apps.googleusercontent.com.json -> others
+2026-02-25 10:21:17.776884 |  INFO  : C:\Users\vivek\Downloads\Conference-template-A4.doc : Unsupported Binary File
+2026-02-25 10:21:17.777883 |  INFO  : Conference-template-A4.doc -> others
+2026-02-25 10:21:18.100064 |  INFO  : CPMppt.pptx_20260212_092133_0000.pdf -> legal
+2026-02-25 10:21:18.379879 |  INFO  : CRM-Deepak_Vishwakarma.pdf -> legal
+2026-02-25 10:21:18.380996 |  INFO  : C:\Users\vivek\Downloads\dataset.csv : Unsupported Binary File
+2026-02-25 10:21:18.380996 |  INFO  : dataset.csv -> others
+2026-02-25 10:21:18.380996 |  INFO  : dfd level 1.png -> images
+2026-02-25 10:21:18.382500 |  INFO  : dfd0.png -> images
+2026-02-25 10:21:18.382500 |  INFO  : dfd1.png -> images
+2026-02-25 10:21:21.079825 |  INFO  : download.pdf -> articles
+2026-02-25 10:21:23.175895 |  INFO  : Efficient_Prediction_of_Cardiovascular_Disease_Using_Machine_Learning_Algorithms_With_Relief_and_LASSO_Feature_Selection_Techniques.pdf -> articles
+2026-02-25 10:21:23.497500 |  INFO  : EKSHETRA S2 NEW.pdf -> invoice
+2026-02-25 10:21:23.499505 |  INFO  : C:\Users\vivek\Downloads\gmail_auth.json : Unsupported Binary File
+2026-02-25 10:21:23.499505 |  INFO  : gmail_auth.json -> others
+2026-02-25 10:21:23.499505 |  INFO  : Graduation.jpg -> images
+2026-02-25 10:21:23.501519 |  INFO  : harvard.wav.zip -> archives
+2026-02-25 10:21:23.501519 |  INFO  : C:\Users\vivek\Downloads\heart (1).csv : Unsupported Binary File
+2026-02-25 10:21:23.501519 |  INFO  : heart (1).csv -> others
+2026-02-25 10:21:23.502523 |  INFO  : C:\Users\vivek\Downloads\heart (2).csv : Unsupported Binary File
+2026-02-25 10:21:23.502523 |  INFO  : heart (2).csv -> others
+2026-02-25 10:21:23.502523 |  INFO  : C:\Users\vivek\Downloads\heart (3).csv : Unsupported Binary File
+2026-02-25 10:21:23.502523 |  INFO  : heart (3).csv -> others
+2026-02-25 10:21:23.502523 |  INFO  : heart+disease.zip -> archives
+2026-02-25 10:21:23.504536 |  INFO  : C:\Users\vivek\Downloads\heart_2022_no_nans - heart_2022_no_nans.csv : Unsupported Binary File
+2026-02-25 10:21:23.504536 |  INFO  : heart_2022_no_nans - heart_2022_no_nans.csv -> others
+2026-02-25 10:21:23.504536 |  INFO  : C:\Users\vivek\Downloads\heart_disease.csv : Unsupported Binary File
+2026-02-25 10:21:23.505814 |  INFO  : heart_disease.csv -> others
+2026-02-25 10:21:23.505814 |  INFO  : C:\Users\vivek\Downloads\heart_disease_cleaned.csv : Unsupported Binary File
+2026-02-25 10:21:23.506824 |  INFO  : heart_disease_cleaned.csv -> others
+2026-02-25 10:21:23.506824 |  INFO  : C:\Users\vivek\Downloads\heart_disease_cleaned_unique.csv : Unsupported Binary File
+2026-02-25 10:21:23.508292 |  INFO  : heart_disease_cleaned_unique.csv -> others
+2026-02-25 10:21:23.508794 |  INFO  : C:\Users\vivek\Downloads\Heart_Disease_Dataset.csv : Unsupported Binary File
+2026-02-25 10:21:23.508794 |  INFO  : Heart_Disease_Dataset.csv -> others
+2026-02-25 10:21:23.508794 |  INFO  : C:\Users\vivek\Downloads\heart_disease_million_rows.csv : Unsupported Binary File
+2026-02-25 10:21:23.509912 |  INFO  : heart_disease_million_rows.csv -> others
+2026-02-25 10:21:23.509912 |  INFO  : C:\Users\vivek\Downloads\heart_disease_model_ready.csv : Unsupported Binary File
+2026-02-25 10:21:23.510912 |  INFO  : heart_disease_model_ready.csv -> others
+2026-02-25 10:21:23.510912 |  INFO  : C:\Users\vivek\Downloads\heart_Disease_Testing_Dataset.csv : Unsupported Binary File
+2026-02-25 10:21:23.510912 |  INFO  : heart_Disease_Testing_Dataset.csv -> others
+2026-02-25 10:21:23.511916 |  INFO  : C:\Users\vivek\Downloads\heart_disease_titan_ready.csv : Unsupported Binary File
+2026-02-25 10:21:23.512632 |  INFO  : heart_disease_titan_ready.csv -> others
+2026-02-25 10:21:23.512632 |  INFO  : C:\Users\vivek\Downloads\Heart_Disease_Training_Dataset.csv : Unsupported Binary File
+2026-02-25 10:21:23.512632 |  INFO  : Heart_Disease_Training_Dataset.csv -> others
+2026-02-25 10:21:23.512632 |  INFO  : C:\Users\vivek\Downloads\heart_disease_uci.csv : Unsupported Binary File
+2026-02-25 10:21:23.512632 |  INFO  : heart_disease_uci.csv -> others
+2026-02-25 10:21:25.666177 |  INFO  : ICICT 2026 PPT Formate.pptx -> articles
+2026-02-25 10:21:25.951576 |  INFO  : icict-2026-conference-paper-template-K3Znp5vPSGh2FZGv.docx -> articles
+2026-02-25 10:21:30.945304 |  INFO  : IT_4713_4712_An Intelligent Heart Disease Prediction System Using TiTAN-MAG on Real-Time Clinical Data.docx -> articles
+2026-02-25 10:21:31.642714 |  INFO  : literature review (1).docx -> articles
+2026-02-25 10:21:32.323959 |  INFO  : literature review.docx -> articles
+2026-02-25 10:21:32.324969 |  INFO  : C:\Users\vivek\Downloads\mag_embeddings.h5 : Unsupported Binary File
+2026-02-25 10:21:32.325341 |  INFO  : mag_embeddings.h5 -> others
+2026-02-25 10:21:32.325978 |  INFO  : Marksheet First Year.jpg -> images
+2026-02-25 10:21:32.325978 |  INFO  : Marksheet First Year.png -> images
+2026-02-25 10:21:32.326987 |  INFO  : MarksheetSecond year.jpeg -> images
+2026-02-25 10:21:35.270311 |  INFO  : Methodology.docx -> articles
+2026-02-25 10:21:35.713765 |  INFO  : MU_TYBSC_CS_SYLLABUS_2023.pdf -> articles
+2026-02-25 10:21:40.769188 |  INFO  : NLP Report.docx -> articles
+2026-02-25 10:21:41.529965 |  INFO  : NLP Report.pdf -> articles
+2026-02-25 10:21:41.529965 |  INFO  : node-v24.13.0-x64.msi -> installers
+2026-02-25 10:21:41.529965 |  INFO  : C:\Users\vivek\Downloads\processed_cleveland.csv : Unsupported Binary File
+2026-02-25 10:21:41.529965 |  INFO  : processed_cleveland.csv -> others
+2026-02-25 10:21:41.529965 |  INFO  : project.drawio.png -> images
+2026-02-25 10:21:41.532540 |  INFO  : python-3.11.5-amd64.exe -> installers
+2026-02-25 10:21:41.532540 |  INFO  : C:\Users\vivek\Downloads\research_data (1).h5 : Unsupported Binary File
+2026-02-25 10:21:41.532540 |  INFO  : research_data (1).h5 -> others
+2026-02-25 10:21:41.532540 |  INFO  : C:\Users\vivek\Downloads\research_data.h5 : Unsupported Binary File
+2026-02-25 10:21:41.534056 |  INFO  : research_data.h5 -> others
+2026-02-25 10:21:41.870443 |  INFO  : Result & Discussion.docx -> articles
+2026-02-25 10:21:42.166521 |  INFO  : RP102_An Intelligent Heart Disease Prediction System Using TiTAN-MAG on Real-Time Clinical Data.pdf -> articles
+2026-02-25 10:21:44.179930 |  INFO  : RP102_An Intelligent Heart Disease Prediction System Using TiTAN-MAG on Real-Time Clinical Data.pptx -> articles
+2026-02-25 10:21:46.209118 |  INFO  : RP108_Deep Ensemble Hybrid Model for Real-Time HAB Risk Assessment.pptx -> articles
+2026-02-25 10:21:46.637802 |  INFO  : rpa page.pdf -> articles
+2026-02-25 10:21:46.637802 |  INFO  : SETFILE (1).png -> images
+2026-02-25 10:21:46.637802 |  INFO  : SETFILE.png -> images
+2026-02-25 10:21:48.356400 |  INFO  : Softmax-Function-in-Deep-Learning (1).pptx -> articles
+2026-02-25 10:21:50.129926 |  INFO  : Softmax-Function-in-Deep-Learning.pptx -> articles
+2026-02-25 10:21:50.129926 |  INFO  : statlog+heart.zip -> archives
+2026-02-25 10:21:50.132052 |  INFO  : C:\Users\vivek\Downloads\Subscriptions-Data-20260111150240.csv : Unsupported Binary File
+2026-02-25 10:21:50.132557 |  INFO  : Subscriptions-Data-20260111150240.csv -> others
+2026-02-25 10:21:50.132557 |  INFO  : systemarchitecture.png -> images
+2026-02-25 10:21:50.132557 |  INFO  : system_architecture.png -> images
+2026-02-25 10:21:52.053189 |  INFO  : Titan model.pdf -> articles
+2026-02-25 10:21:53.603361 |  INFO  : WSD_CE2__Presentation.pptx -> articles
+2026-02-25 10:21:54.233234 |  INFO  : XI-IT.pdf -> articles
+2026-02-25 10:21:54.235245 |  INFO  : Organizing the file
+2026-02-25 10:21:58.313286 |  WARNING  : User aborted the organizing
