@@ -171,7 +171,7 @@ class App(customtkinter.CTk):
         customtkinter.set_appearance_mode(new_appearance_mode)
     
     def sidebar_button_event(self):
-        print("sidebar_button click")
+        self.tabview.set("Organize")
 
     def browse_folder(self):
         folder_selected = filedialog.askdirectory()
