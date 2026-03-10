@@ -13,8 +13,10 @@ src/setfile/commands/gmail_auth.py
 src/setfile/commands/gmail_download.py
 src/setfile/commands/organize.py
 src/setfile/commands/revert.py
+src/setfile/core/embed_model.py
 src/setfile/core/prediction.py
 src/setfile/model/model.py
+src/setfile/model/titan.py
 src/setfile/utils/file_rules.py
 src/setfile/utils/history.py
 src/setfile/utils/logger.py

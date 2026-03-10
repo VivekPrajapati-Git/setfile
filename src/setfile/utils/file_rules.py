@@ -1,7 +1,7 @@
 import os
 from .reader import read_file
 from .logger import logger
-from setfile.core.prediction import predict
+from src.setfile.core.prediction import predict
 
 EXTENSION_RULES = {
   ".exe": "installers",

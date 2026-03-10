@@ -2,9 +2,14 @@ import click
 import subprocess
 import time
 import webbrowser
-import flask
+from pathlib import Path
 
 def gmail_auth():
+    path = Path(__file__).resolve().parent.parent/'session.txt'
+    if path.is_file():
+        click.echo("You are already logged in!")
+        return 
+
     click.echo("Starting Gmail Authentication Server...")
     subprocess.Popen([
         "python", "-m", "setfile.GoogleOAuth.gmail_auth"],
